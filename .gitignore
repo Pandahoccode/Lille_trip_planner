@@ -1,4 +1,4 @@
-.env
+
 # Python-generated files
 __pycache__/
 *.py[oc]
@@ -8,5 +8,9 @@ wheels/
 *.egg-info
 
 # Virtual environments
+.env
 .venv/
+
+# Version control
+.git/
 
