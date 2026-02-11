@@ -180,6 +180,38 @@ class TrainService:
     def _duration_hours(seconds):
         return round(seconds / 3600, 2)
 
+    @staticmethod
+    def _extract_price(j):
+        """Extract price from journey object safely."""
+        try:
+            if j.get("fare") and j["fare"].get("total"):
+                val = j["fare"]["total"].get("value")
+                # Debug print
+                print(f"DEBUG PRICE: {val} (type: {type(val)})")
+                # API sometimes returns "N/A" string? Handle safe cast
+                if val is not None and str(val).upper() != "N/A":
+                    return float(val)
+        except (ValueError, TypeError) as e:
+            print(f"DEBUG PRICE ERROR: {e}")
+            pass
+        return 0.0
+
+    @staticmethod
+    def _extract_stations(j):
+        """Extract departure and arrival station names from journey sections."""
+        dep = ""
+        arr = ""
+        try:
+            sections = j.get("sections", [])
+            if sections:
+                # First section 'from' is departure
+                dep = sections[0].get("from", {}).get("name", "")
+                # Last section 'to' is arrival
+                arr = sections[-1].get("to", {}).get("name", "")
+        except Exception:
+            pass
+        return dep, arr
+
     def search_trips(self, cities, start_date, end_date):
         """Fetch trips from multiple cities to Lille and back."""
         results = []
@@ -200,7 +232,10 @@ class TrainService:
                         "to": "Lille",
                         "departure": self._format_sncf_datetime(j["departure_date_time"]),
                         "arrival": self._format_sncf_datetime(j["arrival_date_time"]),
-                        "duration_hours": self._duration_hours(j["duration"])
+                        "duration_hours": self._duration_hours(j["duration"]),
+                        "departure_station": self._extract_stations(j)[0],
+                        "arrival_station": self._extract_stations(j)[1],
+                        "price": self._extract_price(j)
                     })
 
                 # Return: Lille -> City
@@ -211,7 +246,8 @@ class TrainService:
                         "to": city,
                         "departure": self._format_sncf_datetime(j["departure_date_time"]),
                         "arrival": self._format_sncf_datetime(j["arrival_date_time"]),
-                        "duration_hours": self._duration_hours(j["duration"])
+                        "duration_hours": self._duration_hours(j["duration"]),
+                        "price": self._extract_price(j)
                     })
 
             # Cache results
@@ -224,7 +260,7 @@ class TrainService:
 
     def _save_cache(self, rows):
         os.makedirs(self.data_dir, exist_ok=True)
-        keys = ["from", "to", "departure", "arrival", "duration_hours"]
+        keys = ["from", "to", "departure", "arrival", "duration_hours", "price", "departure_station", "arrival_station"]
         try:
             with open(self.cache_path, "w", newline="", encoding="utf-8") as f:
                 writer = csv.DictWriter(f, fieldnames=keys)

@@ -37,6 +37,19 @@ def duration_hours(seconds):
     return round(seconds / 3600, 2)
 
 
+def extract_price(j):
+    """Extract price from journey object safely."""
+    try:
+        if j.get("fare") and j["fare"].get("total"):
+            val = j["fare"]["total"].get("value")
+            # API sometimes returns "N/A" string? Handle safe cast
+            if val is not None and str(val).upper() != "N/A":
+                return float(val)
+    except (ValueError, TypeError):
+        pass
+    return 0.0
+
+
 # ---- Station lookup ----
 
 def get_station_id(city):
@@ -108,7 +121,8 @@ def search_trips(cities, start_date, end_date):
                     "to": "Lille",
                     "departure": format_sncf_datetime(j["departure_date_time"]),
                     "arrival": format_sncf_datetime(j["arrival_date_time"]),
-                    "duration_hours": duration_hours(j["duration"])
+                    "duration_hours": duration_hours(j["duration"]),
+                    "price": extract_price(j)
                 })
 
             # Return trips
@@ -118,7 +132,8 @@ def search_trips(cities, start_date, end_date):
                     "to": city,
                     "departure": format_sncf_datetime(j["departure_date_time"]),
                     "arrival": format_sncf_datetime(j["arrival_date_time"]),
-                    "duration_hours": duration_hours(j["duration"])
+                    "duration_hours": duration_hours(j["duration"]),
+                    "price": extract_price(j)
                 })
 
         except Exception as e:
@@ -139,7 +154,8 @@ def export_csv(filename, rows):
                 "to",
                 "departure",
                 "arrival",
-                "duration_hours"
+                "duration_hours",
+                "price"
             ]
         )
         writer.writeheader()

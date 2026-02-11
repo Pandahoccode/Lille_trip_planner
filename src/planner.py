@@ -160,7 +160,7 @@ class TravelPlanner:
         return plan, recap
 
 
-def estimate_budget(nb_days, nb_people, hotel_stars, transport_mode):
+def estimate_budget(nb_days, nb_people, hotel_stars, transport_mode, train_price_override=None):
     """Compute total trip budget breakdown."""
     hotel_per_night = HOTEL_BASE_EUR + (hotel_stars * HOTEL_STAR_INCREMENT_EUR)
     hotel_total = hotel_per_night * nb_days
@@ -168,7 +168,10 @@ def estimate_budget(nb_days, nb_people, hotel_stars, transport_mode):
     meals_total = DAILY_MEAL_TOTAL * nb_days * nb_people
 
     if transport_mode == "train":
-        transport_total = TRAIN_BASE_EUR * TRAIN_TGV_MULTIPLIER
+        if train_price_override is not None:
+             transport_total = train_price_override * nb_people
+        else:
+             transport_total = TRAIN_BASE_EUR * TRAIN_TGV_MULTIPLIER * nb_people
         local_transport = METRO_DAY_PASS_EUR * nb_days
     else:
         transport_total = (PARKING_DAILY_EUR * nb_days) + CAR_FUEL_BASE_EUR
