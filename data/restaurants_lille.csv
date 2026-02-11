@@ -1,0 +1,1450 @@
+﻿name;type;cuisine;brand;vegetarian;vegan;delivery;takeaway;michelin_stars;capacity;phone;website;city;department;region;latitude;longitude
+L'arc de triomphe;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6423052059637;3.08659134408276
+Le Nemrod;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6241229233664;3.09525122944446
+Au Stop;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6410435199292;3.01825187756086
+Café Les Amis;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6258571877594;3.05648844345779
+Patrimoine Kabyle;restaurant;['mediterranean', 'couscous', 'tajine'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6292467455838;3.06118549435817
+McDonald's;fast_food;['burger'];McDonald's;no;;;yes;;;;https://www.mcdonalds.fr/restaurants/mcdonalds-lille-gare-flandres/377;Lille;Nord;Hauts-de-France;50.6359236721499;3.07043755981395
+La Baguette du Bois;fast_food;['sandwich'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6344963189443;3.03007148581416
+Le Flandre;cafe;;;;;;;;;+33320220596;;Lille;Nord;Hauts-de-France;50.6212543477643;3.03549356056303
+Big Fernand;fast_food;['burger'];Big Fernand;yes;no;;yes;;;+33 3 20 94 77 76;https://bigfernand.com/;Lille;Nord;Hauts-de-France;50.6387650989235;3.05866186780229
+L’OcKaz;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6258254184989;3.05657554933441
+Le Palais de Seoul;fast_food;['korean'];;;;;only;;;;https://palaisdeseoul.fr;Lille;Nord;Hauts-de-France;50.6284485369446;3.05236152961129
+L'Ecart;cafe;['regional'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6276659186452;3.06450632057647
+Mac Allans;pub;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6321979298721;3.05534657678845
+La cour de la ch’tite brigitte;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.641040418625;3.06189259170989
+Beer's Factory;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.628727151406;3.05305169551858
+Le Passe-Porc;restaurant;['pork'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6296194888179;3.05811578995892
+Heureux Hasard;restaurant;['french'];;;;;;;;+33 3 20 11 83 59;https://www.heureuxhasard.com;Lille;Nord;Hauts-de-France;50.6246735792123;3.09810283251463
+La Masse;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6364043879798;3.08596323832938
+Duda's;restaurant;['georgian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6313547942319;3.05910284287665
+Gambatté;fast_food;['japanese', 'ramen'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6266952942578;3.04915335617162
+Coup de main;restaurant;;;;;;;;;+33 320475143;https://www.coupdemain-lille.fr/;Lille;Nord;Hauts-de-France;50.6460923593058;3.05571077048134
+Amuni l'aperitivo;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6264501235899;3.06432099669732
+La Pampa;restaurant;['argentinian', 'empanada'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6467211696818;3.05743752635414
+Viet Coffee;cafe;['vietnamese'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6387375745471;3.06485693558622
+Le Carthage;fast_food;['oriental'];;;;;;;;+33 3 61 97 60 80;https://le-carthage.com/;Lille;Nord;Hauts-de-France;50.6250509324932;3.04830141953306
+Pitaya;fast_food;['thai'];Pitaya;;;yes;yes;;;;https://www.westfield.com/fr/france/euralille/restaurants/pitaya/82834;Lille;Nord;Hauts-de-France;50.6378878172034;3.07518947526628
+El Riadh;restaurant;;;;;;;;;+33 3 20 51 03 37;https://www.elriadh.com/;Lille;Nord;Hauts-de-France;50.637178959652;3.0680352694506
+La Pyramide;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6369432605348;3.06883113115691
+Le Velvet;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6307454298712;3.05599977850278
+Le Tizi-ouzien. Club 104;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6226081944513;3.04444423533067
+Beef;restaurant;['steak_house'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6370948891632;3.06165773078297
+Hoover Garden;restaurant;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6271512697904;3.07944706298326
+Britney;restaurant;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6270932670205;3.06980762287662
+Waffle Factory;fast_food;['crepe'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.636175142928;3.06378128595196
+Bisous Bécots;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.626632429984;3.05000755592403
+Starbucks;cafe;['coffee_shop'];Starbucks;;;;yes;;;;https://www.starbucks.co.uk/store-locator/71473-306575/lille-rue-de-bethune;Lille;Nord;Hauts-de-France;50.6349797997164;3.06446315377514
+Backyard Kitchen;restaurant;['jamaican'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6315344184169;3.06441076688031
+Kisoro;restaurant;['sushi'];;yes;yes;;yes;;;;;Lille;Nord;Hauts-de-France;50.6327492914629;3.06372965342842
+Le Versailles;restaurant;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6290330908719;3.07379338547369
+L'orpailleur;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6194471273075;3.05070023640229
+Le Beffroi;restaurant;['burger'];;;;;;;;;http://monsieuroscar-beffroi.com/;Lille;Nord;Hauts-de-France;50.6375021658384;3.06411781936438
+Michel;restaurant;['lebanese'];;yes;no;;yes;;;;;Lille;Nord;Hauts-de-France;50.6329387224746;3.06822067714879
+Bouillant;restaurant;;;;;;;;;;https://www.restaurant-bouillant-lille.com/;Lille;Nord;Hauts-de-France;50.6269506908474;3.0483994878002
+Le W;bar;;;;;;;;;;https://www.le-w-bar-terrasse-lille.com/;Lille;Nord;Hauts-de-France;50.6250830351823;3.04841574869235
+Friterie Concorde;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6189973543832;3.04301998234342
+Le charbon ardent;restaurant;;;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6289886667851;3.05562343105029
+Autour de vous;restaurant;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6401380229294;3.0581732898147
+Le Chamarel;restaurant;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6396567340492;3.06775548152265
+Le bar à mines;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6391447674033;3.05710887193069
+Le Bistrot de la reine;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6409061405362;3.05930367327667
+Bleu Canard;restaurant;['bistronomique'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6363301243176;3.0659297353734
+3 Brasseurs;restaurant;['burger', 'pizza', 'seafood'];3 Brasseurs;;;;;;;+33 3 20 17 11 66;https://restaurants.3brasseurs.com/fr/france-FR/445/3-brasseurs-lomme/details;Lille;Nord;Hauts-de-France;50.6515973446806;2.98598768119375
+La Trinacria;restaurant;['italian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6258417650576;3.03745238697945
+Glaces en boules et italiennes;ice_cream;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6394683971246;3.04878040707288
+Istanbul Concept;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6284615288945;3.03764223708635
+Le Derby;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6194008280222;3.06445014239447
+Chopsticks & Co;restaurant;['asian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6366780414858;3.07125171032301
+Le Stout;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6274646691501;3.05012196890235
+Fool;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6347586851107;3.06337887078061
+Hippopotamus;restaurant;['steak_house'];Hippopotamus;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6369546599231;3.06520771823403
+Pizza Hut;restaurant;['pizza'];Pizza Hut;;;;;;;;;Lille;Nord;Hauts-de-France;50.6379056706572;3.07510523713938
+Jojo Grill;restaurant;['korean'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6313540398606;3.05962553835855
+Le lovibond;restaurant;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6308688953049;3.0637861474558
+El Flaquito;fast_food;['mexican'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6336217637642;3.06441445491771
+Café Chéri;cafe;['coffee_shop', 'pastry'];;yes;no;;yes;;;;https://limpertinente.fr/;Lille;Nord;Hauts-de-France;50.628790434775;3.06913623243244
+L'Atelier Royal;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6393478609172;3.05829256429686
+L'Imaginaire;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6404503326416;3.06426114990865
+Napoli Gang;fast_food;['italian_pizza'];Napoli Gang;yes;;;only;;;;;Lille;Nord;Hauts-de-France;50.6341935771987;3.05533685378077
+Café Aux Halles;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6266865770784;3.04997134610232
+Al Fassia;restaurant;['moroccan'];;;;;;;;+33359086682;;Lille;Nord;Hauts-de-France;50.6263257361468;3.04735686286443
+Black & White Burger;fast_food;['burger'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6332445781214;3.06269306346294
+Oppa;restaurant;['korean'];;;;;;;;+33 3 65 67 56 13;https://oppa59.fr/;Lille;Nord;Hauts-de-France;50.6465359296217;3.00900487816079
+Dona Bica;cafe;['portuguese'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.640797259614;3.06373124599003
+Snack Marbrerie;fast_food;;;;;;;;;+33 320195410;;Lille;Nord;Hauts-de-France;50.6302439406043;3.09798397712763
+George V;cafe;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6295703708653;3.0652902799803
+Pulpe;restaurant;['french'];;;;;;;;+33320862045;https://restaurant-pulpe.fr/;Lille;Nord;Hauts-de-France;50.6431668236411;3.05945119477252
+Joe Tex;pub;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6462911780491;3.05294038384443
+Kook'n Pizza;fast_food;['pizza'];;yes;;no;only;;;+33 3 20 51 18 80;;Lille;Nord;Hauts-de-France;50.6293126273427;3.04373529396025
+Le Central;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6396574884204;3.01455478770907
+La Parenthèse;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6380209218258;3.06688158429779
+Burger Street;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6132723468777;3.04708026005972
+O'Tacos;fast_food;['french_tacos'];O'Tacos;no;;;yes;;;;https://o-tacos.com/nos-restos;Lille;Nord;Hauts-de-France;50.6325133408886;3.06246574624888
+Crown Tea;cafe;['bubble_tea'];;;;;only;;;;;Lille;Nord;Hauts-de-France;50.6350944641518;3.06421437888895
+Best Tacos;fast_food;['tacos'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6131414215501;3.07504136703722
+La Mie Câline;fast_food;;La Mie Câline;;;;;;;+33 9 78 81 23 96;https://www.lamiecaline.com/boutiques/lille-gambetta/;Lille;Nord;Hauts-de-France;50.6303800627119;3.0566809757737
+L'épi d'orge;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6321587863843;3.08768756345026
+Les Marches;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6363447926482;3.0637964571967
+Chez Guido;restaurant;['italian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6421631745552;3.06616308755775
+Den Artiest;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6360733866234;3.06282214477182
+Hopen Source;restaurant;;;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6325073897373;3.0650768767255
+Calico Café;restaurant;['brunch', 'coffee_shop'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6386176295127;3.06534342124641
+Le thé à la menthe;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6128999389196;3.0619872233967
+BeefHouse;restaurant;['steak_house'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6381081774379;3.07493164792467
+HD Diner;restaurant;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6381548646385;3.0747336673717
+L'Irlandais;pub;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6309527981557;3.05506595067021
+La Guinguette du Cours St-So;biergarten;['burger', 'pizza', 'tapas'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6263628679779;3.07136984199011
+Dumplings & Co;restaurant;['asian'];;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6370893571071;3.06400634005217
+Pho 117;restaurant;['vietnamese'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6299787371879;3.05623237631585
+Five Guys;fast_food;['burger'];Five Guys;yes;no;;yes;;;;https://restaurants.fiveguys.fr/hauts-de-france/56-rue-de-béthune;Lille;Nord;Hauts-de-France;50.6333486813588;3.06277185335279
+Au P'tit Marin;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6142682846127;3.047736060164
+Shuriken;restaurant;['japanese'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.630174286989;3.05705003097043
+Pouletos braisé;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6274924970686;3.05017988785329
+Soleil d'Agadir;restaurant;['oriental'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6461734961285;3.0594210199211
+Café Les Sarrazins;cafe;;;;;;;;;;http://les-sarrazins.org/;Lille;Nord;Hauts-de-France;50.6251926704758;3.04888136341364
+The Queen's Head;restaurant;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6416222903434;3.06481435551811
+Chopsticks&Co;restaurant;['chinese', 'japanese', 'asian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6273999608575;3.04952157317803
+Best Mama;restaurant;['pizza'];Le Toscano;;;;;;;+33 3 66 96 37 72;;Lille;Nord;Hauts-de-France;50.6424228459155;3.01657164125069
+Le Point De Repère;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6324285998475;3.04852882056616
+Chouga Barrio;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6254159643764;3.04963766253698
+Le Flandre;restaurant;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6354811213452;3.07041405357123
+Octopus;restaurant;['fish', 'seafood'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6287755988064;3.05889019399314
+Club Max;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6226083620894;3.05406565434549
+Lucky Panda;restaurant;['vietnamese'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6395895950047;3.05778956628743
+Alices;bar;;;;;;;;;;https://www.alices-lille.com;Lille;Nord;Hauts-de-France;50.6374906826311;3.063873822163
+MB Burger;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6226732380199;3.06348112999933
+Le Berliner;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6395684726087;3.05836657650187
+MakiWaō;restaurant;['sushi'];;;;;;;;+33320772354;https://www.makiwao.fr/;Lille;Nord;Hauts-de-France;50.6135027653959;3.06267738930401
+Elizabeth's bakery & tea rooms;cafe;['english', 'british', 'cake'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6386159531321;3.06020246475399
+Saveurs du nord;restaurant;['african'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6227686240781;3.05421099654652
+Potes en ciel;cafe;['coffee_shop'];;;;;;;;+33 9 50 06 78 80;https://www.lespotesenciel.net/;Lille;Nord;Hauts-de-France;50.6367151889494;3.09152287088534
+Tripletta;restaurant;['italian', 'italian_pizza', 'pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6426267776196;3.06646299205332
+Nickel Food;fast_food;['pizza', 'burger', 'tacos', 'kebab', 'indian', 'tex-mex'];;;;;;;;+33 7 66 06 52 84;https://nickelfood.fr/;Lille;Nord;Hauts-de-France;50.6185155625888;3.07161794632404
+Les Sales Mômes;restaurant;;;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6291959512506;3.021635651872
+Latte;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.637746665954;3.06747175410024
+La Guinguette de la Marine;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6368108264647;3.04679846047503
+La Petite Table;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6411916281583;3.06237974792234
+Crêperie La Vieille Bourse;restaurant;['crepe'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6371324400894;3.06411538861246
+Panda Sushi;fast_food;['sushi', 'chinese'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6369836613081;3.06213097303615
+Trolls & Croque;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.630372518999;3.04722359060398
+L'Assiette Mijotée;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6243005845211;3.05834436445846
+Balme;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6407865307779;3.06379578664445
+Bar Au Moulin;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6205303092785;3.06749811614668
+Eat well;fast_food;;;;;no;yes;;;;;Lille;Nord;Hauts-de-France;50.618179039643;3.07147805012073
+Restaurant le Faubourg;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6405149603363;3.08171006845446
+Le Carré d'As;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6283925689893;3.01702954712156
+Akira;restaurant;['japanese'];;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6324324363426;3.06364288957548
+Moshi Moshi;fast_food;['japanese'];;yes;yes;;yes;;;;;Lille;Nord;Hauts-de-France;50.6325541150072;3.06393374856186
+Les chaussons de mamie;restaurant;['regional'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6301055419706;3.07426860103757
+Domino's;fast_food;['pizza'];Domino's;;;;yes;;;+33 3 20 10 01 11;https://www.dominos.fr/magasin/lille-nationale_59000;Lille;Nord;Hauts-de-France;50.6349934869233;3.05726624502501
+Krama;restaurant;['cambodian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6227770378559;3.06435738942427
+Aromebase;restaurant;['gastronomique', 'french'];;no;;;;;;+33320734759;https://www.aromebase.fr;Lille;Nord;Hauts-de-France;50.6350217851342;3.06332048816484
+Le Kremlin;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6399775261285;3.0594889877787
+Campanile;restaurant;['french'];Campanile;;;;;;;;;Lille;Nord;Hauts-de-France;50.6533607188106;2.98373454783211
+Jane;restaurant;['burger'];;;;;;;;+33 3 20 20 62 62;https://www.hotelarbrevoyageur.com/fr/page/jane;Lille;Nord;Hauts-de-France;50.6395641978381;3.06735792785514
+Le Saint-Charles;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6311943646052;3.02605048409254
+La Petite Caille;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6313484239855;3.09528902761929
+Le Maroc;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6344222355173;3.05737089022389
+Garden - bar lounge;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6310040954031;3.05256143800196
+Le Général;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.63957442376;3.06181623257197
+La Famille;fast_food;;;;;;;;;+33 3 20 05 05 12;https://www.lf.fr/restaurants/la-famille-lille-euratechnologies;Lille;Nord;Hauts-de-France;50.6341459679887;3.02004946051545
+Le barboteur;restaurant;;;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6293420478228;3.02152878260654
+Snack Mounir;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.622496296044;3.05356441653572
+Food Factory;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6129529963667;3.07505519717745
+R by Royale;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6395247190742;3.05840236722844
+Itsy Bitsy - Cuisine Végétale;restaurant;;;;only;;;;;;;Lille;Nord;Hauts-de-France;50.6317732188383;3.06296715169674
+MacAllans Bar;pub;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6377888269269;3.06601967319446
+Joyeux servi avec le coeur;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6364723652145;3.06535666465342
+Bistrot du Nouveau Siècle;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6372378844314;3.06072163983654
+Ito Ramen;restaurant;['ramen'];;;;;;;;+33320060491;https://ito-ramen59.com/;Lille;Nord;Hauts-de-France;50.6323886181694;3.05233252822629
+Laurette;restaurant;;;;;;;;;;https://www.laurettelille.fr/;Lille;Nord;Hauts-de-France;50.6292039978776;3.0750283750873
+Highton;bar;;;;;;;;;;https://www.highton.bar/;Lille;Nord;Hauts-de-France;50.6318894758353;3.02282294845654
+La Trompette;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6419021620903;3.06128582573916
+Cappuccino;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6278645697505;3.10745142058113
+Les Délices De l'Inde;restaurant;['indian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6354252978701;3.06925869203781
+La Meïda;restaurant;;;;;;yes;;;+33 3 20 35 21 99;https://www.lameida.com/;Lille;Nord;Hauts-de-France;50.6288592502001;3.07273592456934
+Bagel Corner;fast_food;['bagel'];Bagel Corner;yes;no;;yes;;;;;Lille;Nord;Hauts-de-France;50.6328822284472;3.06283957913044
+Doctor chicken;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6294279623304;3.05433018720964
+Celine Kebab;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6298444590991;3.04595959960542
+Le Grand Angle;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6345668233471;3.05714424356208
+Jefe Burger;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6355424768764;3.05989753111652
+Le Nil;restaurant;['egyptian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6376777667099;3.06941526598908
+Prima Fila;restaurant;['italian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6299321338063;3.02112787617776
+Pancook;restaurant;;;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6317658427635;3.04360612883235
+Factory's;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6190256852159;3.05044559418388
+Osaka;restaurant;['japanese'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6370502974383;3.06883129879498
+Friterie Sensas;fast_food;['friture'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6243222936503;3.06879525661134
+Café Lovster;restaurant;;;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6378922596121;3.06470748625264
+Le Bada Bing;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6438702329555;2.98872645599408
+El Riadh;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6324478782248;3.05540382518714
+La Fossetta;restaurant;['italian', 'pizza'];;yes;no;;no;;;;;Lille;Nord;Hauts-de-France;50.6346158574806;3.06298114947504
+Tigermilk;restaurant;['mexican'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6404782443792;3.06462408631606
+Latte;cafe;['coffee_shop'];;;;;;;;;https://lattecoffeelille.com/;Lille;Nord;Hauts-de-France;50.6243351179622;3.06856844231146
+Mamma Cucina;fast_food;['pizza'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6322554297279;3.08610598214042
+Comfort;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6473434421735;2.97591974613528
+Papas Fritas;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6211040619268;3.05876236996974
+Tummy;bar;;;;;;;;;;https://www.privateaser.com/lieu/47713-tummy;Lille;Nord;Hauts-de-France;50.624979267221;3.06985892012406
+Le Bistronome;restaurant;['regional'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6282998419823;3.07894264005029
+Frites 2000;fast_food;['friture'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6333985536827;3.00508893681717
+TIGO;fast_food;['kebab', 'burger', 'sandwich'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6316343307028;3.04947924456701
+Le Network;bar;;;;;;;;;;https://www.le-network.fr/;Lille;Nord;Hauts-de-France;50.6326177794021;3.05409842758689
+Petit Bouillon Alcide;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6376963745349;3.06301668874448
+Le Meunier;restaurant;['french', 'regional'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6356995537419;3.07062469079798
+Caliente;restaurant;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6402493715678;3.08105150033762
+;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.628659469984;3.10384419437661
+Mc Sushi;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6346601509405;3.0300072259198
+Los 3 compadres;restaurant;['mexican'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.625904159492;3.06112345669221
+Delices Wok;restaurant;['asian'];;;;;;;;+33 3 20 00 35 42;;Lille;Nord;Hauts-de-France;50.6441979870152;3.00955979505162
+L'Imposture;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6194382424901;3.06135682045903
+Au Comte d'Artois;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6223421528446;3.06138925842433
+RU Lille-Moulins;restaurant;;Crous;;;;;;;;;Lille;Nord;Hauts-de-France;50.6191405691201;3.06731885722857
+Café du Mont de Terre;cafe;;;;;;;;;+33 3 20 33 25 56;;Lille;Nord;Hauts-de-France;50.6234928720411;3.09050894162898
+Réfectoire;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6351433117516;3.11648458175169
+Mr. RENARD;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6200495537657;3.06871025507415
+La Cambuse;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6434596044621;3.01197004186082
+Pirogue;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6391489729597;3.05962044007952
+Friterie À la ville de Lille;fast_food;['friture'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6137336060292;3.03595452963246
+La Clique;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6411633811446;3.06534115813255
+La Vieille Assiette;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6346051286445;3.04027172393089
+Mezzé Royal;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6293764974449;3.05473126127649
+Starbucks;cafe;['coffee_shop'];Starbucks;yes;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6366837568125;3.06777157477674
+Nachos;fast_food;['mexican'];;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6366047992846;3.06847297243431
+Pepere Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6294778346542;3.06118448852979
+Le Vintage;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6393706596938;3.05852516210993
+Melting Port;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6326995867771;3.03600676013912
+Le Pain Quotidien;cafe;['coffee_shop'];Le Pain Quotidien;yes;yes;;yes;;;;;Lille;Nord;Hauts-de-France;50.6390607807335;3.0625386688065
+Pulcinella;restaurant;['italian', 'pizza'];;;;;;;;+33320092770;https://www.lepulcinella.fr/;Lille;Nord;Hauts-de-France;50.6218734368191;3.03847933775629
+Mangez-Moi;fast_food;['kebab', 'indian', 'tacos', 'burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6263976528761;3.04755308321774
+L'impossible;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6210444665953;3.05551362811872
+Kainf;fast_food;['african'];;;;;;;;;https://kainf.fr;Lille;Nord;Hauts-de-France;50.6245045162253;3.04603906004749
+Bazar Comedy Club;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6293870586429;3.05700317613167
+Le Bettigny;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6427073277092;3.06357266038199
+Aux Artistes;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6418685506586;3.06133762590076
+Starbucks;cafe;['coffee_shop'];Starbucks;;;;yes;;;;https://www.starbucks.co.uk/store-locator/25628-242026/lille---esquermoise;Lille;Nord;Hauts-de-France;50.6382559503908;3.06055182247826
+Lety Délices;fast_food;['sandwich'];;yes;no;;yes;;;+33 3 20 39 34 94;;Lille;Nord;Hauts-de-France;50.6230240206677;3.08070577338285
+Fives Original Burger Grill;fast_food;['burger'];;no;;;;;;;https://www.originalburgergrill.com/;Lille;Nord;Hauts-de-France;50.6320369973312;3.09360124759627
+1000 Pâtes;fast_food;['pasta'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6202743373317;3.06948852382283
+Jet Lag;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6460835583075;3.0554195831651
+Mama Africa;restaurant;['african'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6201031788689;3.06390449992861
+Le Singe Savant;bar;;;;;;;;;+33 3 28 05 28 58;;Lille;Nord;Hauts-de-France;50.6222024265187;3.06690974749245
+Ghosn;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6348152629571;3.05665976955865
+Thai Land Square;fast_food;['thai'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6192508231352;3.05061088531446
+Brasserie Fives Cail;bar;['deli', 'italian'];;;;;;;;+33 320068505;https://brasseriefivescail.com/;Lille;Nord;Hauts-de-France;50.6275975223154;3.09188496910244
+Le Tendre;fast_food;['chicken'];;;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6445429645041;3.05783449328842
+Café Augustin;cafe;;;;;;;;;;https://www.cafeaugustin.com/;Lille;Nord;Hauts-de-France;50.6233297924955;3.07528335258183
+L'Annexe;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6547651983384;3.08531422756667
+Bistrot Minot;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6313183329531;3.0495196453403
+La garderie;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6320106781552;3.04208472958732
+Les Tilleuls;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6267620980261;3.05057484313082
+Jaldi Jaldi;restaurant;['indian'];;;;;;;;;http://www.jaldijaldi.fr;Lille;Nord;Hauts-de-France;50.6318580436985;3.05500342167255
+Café de la place;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6269522834091;3.10977572233116
+Station Pizza;fast_food;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6369551628373;3.0242601933937
+Café Mimosa;cafe;['cake'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6292211807791;3.05515882215738
+KaraFun Lille;bar;;;;;;;;;+33 3 74 09 08 00;https://www.karafunbar.com/lille/;Lille;Nord;Hauts-de-France;50.6302528254217;3.05579785845532
+Les pirates;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6299406833475;3.04523934266572
+Aux Bretons;restaurant;['french', 'regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6262454375145;3.0488643481502
+Café des Nates;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6321748796384;3.05144723161311
+Les Bistronautes;restaurant;['french'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6372461825155;3.0614840577492
+Lune d'Ishtar;fast_food;;;yes;;;;;;+33 3 62 64 60 29;;Lille;Nord;Hauts-de-France;50.6322391688358;3.00707494495509
+T&V Banh Mi;fast_food;['vietnamese'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6346178691374;3.06779135606826
+La Voute;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6375290996277;3.06316080896529
+La Chicorée;restaurant;['regional'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6359371457769;3.06327160932796
+Le Rihour;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6356680883387;3.06341622850931
+Alto Post;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6321373287122;3.08925774537175
+Le Niagara;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6194333809863;3.06105783797284
+Snack Le 215;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.62070558625;3.05212239391375
+Candy Shot;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6387605409618;3.05846917099672
+Brother & Sister;restaurant;['french'];;;;;;;;+33320420445;https://www.brothersisterlille.com/;Lille;Nord;Hauts-de-France;50.6421753283147;3.06088475167229
+Nems by Eli;restaurant;['vietnamese'];;;;;;;;+33 9 55 35 24 06;;Lille;Nord;Hauts-de-France;50.6332423988266;3.04204566991854
+Amalyne;fast_food;['lebanese'];;;;;only;;;;https://amalyne.labnoonfood.fr/;Lille;Nord;Hauts-de-France;50.6293454844032;3.04479728109234
+L'Archétype;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6292172412846;3.06856584392148
+Tout chaud;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6329194440973;3.06277989997983
+Au 111 del Solfe;fast_food;['pizza', 'pasta'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6309393871107;3.05563617154311
+Poggio;restaurant;['corsican'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6288843959096;3.06147869333117
+Ô Cercle;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6340151264802;3.05467485106814
+Au Soyeux;restaurant;['regional'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6423262863909;3.06636836036648
+Escale Thaï;restaurant;['thai'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6429245866394;3.06712776079399
+Le Caf&diskaire;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6303229819513;3.04512375622096
+Le white;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6300653222477;3.05728128767896
+Le Square Café;cafe;;;yes;;;;;;;https://squarecafe.fr/carte.pdf;Lille;Nord;Hauts-de-France;50.6345109998719;3.06102397508403
+Rouge Barre;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6443663578043;3.05940517812411
+Cordoba;restaurant;;;;;;;;;;https://www.cordoba-restaurant.fr/;Lille;Nord;Hauts-de-France;50.6188927482316;3.05111002764843
+Le Pretty;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6176543220377;3.0265590979771
+Bernard et Léon;restaurant;;;;;;;;;;https://www.bernardetleon.com/;Lille;Nord;Hauts-de-France;50.6381950977738;3.06480396195818
+Sushitime;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6506314951504;2.975847745587
+Aux Moules de Lille;restaurant;['regional', 'french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6360283758034;3.0632779526664
+Fresh Burritos;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.638060987323;3.07511361904255
+KFC;fast_food;['chicken'];KFC;yes;no;;yes;;;+33 3 28 80 76 83;https://www.kfc.fr/nos-restaurants/kfc-lille-flandres;Lille;Nord;Hauts-de-France;50.6358621626635;3.06978767394708
+Les Reignaux;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6370865910791;3.06846182450309
+Petit Jaja;restaurant;;;;;;;;;+33 9 52 93 28 34;https://www.jajalille.com;Lille;Nord;Hauts-de-France;50.6438458416172;3.05847721762376
+Mambo Miam Miam;restaurant;;;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6337263699158;3.06143024593084
+Genever;bar;;;;;no;;;;;https://www.privateaser.com/lieu/40757-genever-bar;Lille;Nord;Hauts-de-France;50.6457385591728;3.05620857171084
+La Réserve, bar à manger;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6258147753294;3.05162291630364
+Le Turenne;cafe;;;;;;;;;+33320936632;;Lille;Nord;Hauts-de-France;50.6292734838549;3.0366540945212
+Beerstro;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6432292688198;3.06066598399948
+Le Vintage;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6319811738561;3.09374809853986
+Le Bouchon du Quai du Wault;restaurant;['french', 'lyonnaise'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6372717473201;3.05385183199553
+Chiba;restaurant;['japanese'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6311183407434;3.05903184815676
+Yaya's bar;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6334465819879;3.06641261681523
+Le Solférino;bar;;;;;;;;;+33 3 20 57 03 43;;Lille;Nord;Hauts-de-France;50.6311762596943;3.05462062015459
+Chez Madeleine;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6267191826818;3.04994946933505
+Dernier Bar avant la Fin du Monde;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6372975635819;3.06139227590947
+Aza Kebab;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6473480522202;3.00328724673002
+Speed'Za;fast_food;['pizza'];;;;;;;;+33 3 20 52 96 51;https://speed-za.com/;Lille;Nord;Hauts-de-France;50.6213029644892;3.07226553216324
+Notting Hill Coffee;cafe;;Notting Hill coffee;;;;;;;;;Lille;Nord;Hauts-de-France;50.6365230757287;3.06414036668392
+La Promenade;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6345545857684;3.02266235119171
+Cul de poule;restaurant;['bagel'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6288803725961;3.0728483258909
+Cozy Grill;restaurant;['burger', 'steak_house'];;yes;;;;;;+33 3 74 68 24 12;;Lille;Nord;Hauts-de-France;50.6135069563475;3.06288358412209
+Les Sales Gosses;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6419278945331;3.08492673218296
+Ô Delice;fast_food;['falafel', 'kebab'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6335399063577;3.04139196334268
+Raptor Shack;restaurant;['burger'];;yes;no;no;yes;;;;;Lille;Nord;Hauts-de-France;50.6335897487714;3.06420690224049
+Le Lyautey;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.622745592987;3.06656601090939
+;fast_food;['crepe', 'churro', 'waffle'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6394107957681;3.04889348879331
+Pub Goudale Restaurant Lomme;restaurant;['potato'];La Pataterie;;;;;;150;+33 3 20 08 03 81;;Lille;Nord;Hauts-de-France;50.6522551536141;2.98697899682048
+L'Gaïette;restaurant;['regional'];;;;;;;90;;;Lille;Nord;Hauts-de-France;50.6327956433874;3.05486168368986
+Royce Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6326347946656;3.05510987184283
+Le Rendez-Vous;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6335533674343;3.05525311856809
+Hôp[i];bar;;;;;;;;;;https://www.hopi.beer/;Lille;Nord;Hauts-de-France;50.6362031384845;3.05897912598581
+Le Couz;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6416501182619;3.06574265129458
+Millésime;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6445102750818;3.05757037951943
+Pimentos Kebab;fast_food;['kebab'];;;;;;;;+33 9 53 81 57 58;;Lille;Nord;Hauts-de-France;50.6398690476566;3.01913658744081
+Phoenicia Pizzeria;fast_food;['pizza'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6283008478107;3.06061795569428
+Riddim;bar;;;;;;;;;;https://riddim.fr/;Lille;Nord;Hauts-de-France;50.6242153405658;3.0549750908398
+Estaminet;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6412851701977;3.06223381898809
+Beatriz;restaurant;['latin_american'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6263696573195;3.06819921947667
+Le St 21;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6368217229388;3.06100922293442
+Ali Baba;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6306094754017;3.05571848183229
+4U restaurant;restaurant;;;;;;;;;;https://www.restaurant-foryou.fr;Lille;Nord;Hauts-de-France;50.6295951812987;3.05528279050532
+Laverie;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6296283736353;3.05537197395509
+Flash Burger;fast_food;['burger'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6337149705275;3.06604808784621
+Friterie Meunier;fast_food;['friture'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6362899750015;3.06913371786149
+Gur Kebab;fast_food;['kebab'];;no;;yes;yes;;;;;Lille;Nord;Hauts-de-France;50.6363242569854;3.06908527046113
+LOA;fast_food;['caribbean'];;yes;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6279178786547;3.05053544818591
+O'Tacos;fast_food;['french_tacos'];O'Tacos;yes;no;;yes;;;;;Lille;Nord;Hauts-de-France;50.6363484806856;3.0682405422593
+La petite fourchette;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6266337710885;3.04860006674315
+Le vieux faubourg;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6375736634725;3.06926916941677
+Tok'ici;restaurant;;;yes;;;yes;;;+33 7 81 61 70 72;;Lille;Nord;Hauts-de-France;50.6317916590253;3.02713149814483
+Shokô;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6312232821711;3.05313928640675
+Wood Food&Coffee;cafe;['coffee_shop'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6275097637891;3.06219392112897
+Ankara;restaurant;['turkish'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6352884213913;3.07013778604264
+Le Django;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6415914449397;3.06532875291586
+Aoyama;restaurant;['japanese'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6429771411723;3.06719707913325
+Sakura;restaurant;['japanese'];;;;;;;;+33 3 20 12 04 98;;Lille;Nord;Hauts-de-France;50.6382444671834;3.05905615567596
+Old Town;bar;;;;;;;;;;https://www.baroldtown.fr/bar-cocktails-lille;Lille;Nord;Hauts-de-France;50.6432459488071;3.05934214621226
+Le Circus;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6291793550823;3.0554834532673
+Le Relax;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6255031361694;3.0493537674765
+Yaya;restaurant;['greek'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6437992382356;3.06792379013839
+Le Diplomate;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6340383870467;3.09678561942505
+Le Biglemoi;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6323700941633;3.08966342948534
+Pizza Rella;fast_food;['pizza'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6256411861147;3.04555106564473
+Le Saigon;restaurant;['vietnamese'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6119787677608;3.07520866982455
+Home;bar;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6233529265483;3.06434957898713
+Gabbro Cuisine & Vins;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6443355962197;3.05783566675487
+L'Antalya;fast_food;['kebab'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6419784816138;3.08673396844674
+La Ressourcerie;bar;['regional'];;;;;;;;+33966988853;;Lille;Nord;Hauts-de-France;50.6361466205634;3.05902944969166
+L'Autrement Dit;bar;;;;;;;;;+33320510222;http://www.lautrementdit.com/;Lille;Nord;Hauts-de-France;50.6393645289722;3.05863374533922
+Parvis Treille;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6396163332759;3.06172227143739
+Restaurant In Bocca Lupo;restaurant;['italian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6407516620607;3.0613786972263
+Zythum;bar;;;;;;;;;+33 3 62 65 72 38;;Lille;Nord;Hauts-de-France;50.6320210717152;3.05505673057672
+JagerBar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.631764334021;3.0535089283367
+Le Derby;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6265013370183;3.11089839444222
+l'an droit;pub;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6200068708014;3.0683408736403
+La Rotanda;fast_food;['mexican'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6229685324687;3.05423203512348
+La Gondole;restaurant;['italian', 'pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6369218866817;3.02482722914337
+Le Broc Lille-Centre;restaurant;['french'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6326381474268;3.06263723998782
+Brins d'épices;fast_food;['international'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6343628916428;3.06808824307865
+We Are Ara;restaurant;['coffee_shop', 'latin_american'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6367649774543;3.06496506213716
+Sushi Shop;fast_food;['sushi'];Sushi Shop;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6410495548995;3.06523101992485
+Au Gand'Brinus;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6432527381487;3.06759136385853
+Le Ici;cafe;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6308640338011;3.06010707869586
+Poppie's Pizza;restaurant;['pizza'];;;;;;;;+33 3 28 03 61 18;http://poppiespizza.fr/59000/pizzas.html;Lille;Nord;Hauts-de-France;50.6136669668791;3.06237019255272
+O'Scotland;pub;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6308449230619;3.055287232914
+Le Faubourg des délices;fast_food;['sandwich', 'dessert', 'pasta'];;;;;;;;+33954736590;;Lille;Nord;Hauts-de-France;50.6402677747905;3.08131706558129
+Restaurant O'chtib;bar;['pizza', 'italian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6454888622773;3.05656044400607
+Café du nord;cafe;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6352298318881;3.07048814959529
+Maharani;restaurant;['indian'];;yes;no;no;yes;;;+33 3 20 50 76 23;http://www.maharani-lille.fr/;Lille;Nord;Hauts-de-France;50.6336692891552;3.06142488151281
+;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6388629963929;3.0759904252477
+After Time's;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6325465332251;3.05417872621931
+Ô Papa Bar;bar;;;;;no;;;;;https://www.privateaser.com/lieu/41177-o-papa-bar;Lille;Nord;Hauts-de-France;50.6422281343047;3.06082574307396
+Angle 95;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6452805719834;3.05648986838133
+Snack Tétouan;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6225382893789;3.05359467520617
+Faim;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6352473500657;3.06738064281274
+Cafe Bonneville;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6338540263012;3.05566232308101
+;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6421194210206;3.06093705474811
+Le 54;restaurant;['regional'];;;;;;;;+33 7 62 56 58 07;;Lille;Nord;Hauts-de-France;50.6279916394026;3.11155369163231
+Le Frigidaire;restaurant;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6242540649585;3.06840189389541
+Jour de Pêche;restaurant;['fish'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6369923784874;3.06178622535862
+Mixthé;fast_food;['bubble_tea', 'cake'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6310572366693;3.05890075519113
+Fresh Way;fast_food;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6323126781266;3.06113679550072
+Chimi;restaurant;['asian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6286782849106;3.05294859810957
+Subway;fast_food;['sandwich'];Subway;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6369852538697;3.07482653885887
+Progetto Napoletano;fast_food;['italian_pizza'];;;;;only;;;;;Lille;Nord;Hauts-de-France;50.6374089590751;3.06641831650939
+Panorama;fast_food;['sandwich', 'burger'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6173569321131;3.02511984138317
+Ma reine;restaurant;;;yes;no;;;;;;https://www.hotelarbrevoyageur.com/fr/page/ma-reine;Lille;Nord;Hauts-de-France;50.6396111364959;3.06759647681946
+Aux Tiroirs à Cookies;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6402600634396;3.06524417951283
+Old Dirty Biniou;bar;['crepe'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6267201885102;3.05700158357007
+Africana Melting-pot;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6303183719045;3.05479026987484
+Au P'tit Pompier;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6126073266799;3.04664255707598
+Vogue;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6255148708338;3.05568704969536
+Falafel Sara;fast_food;['lebanese'];;yes;;;;;;+33615485422;;Lille;Nord;Hauts-de-France;50.6233880467226;3.05426447308875
+Au Dieu de Marcq;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6482790302057;3.08605116449368
+Etoile Nejma;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6309973898806;3.09613174416435
+A la Sarthe;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6407395921201;3.06761022314066
+L'aubergeoise;restaurant;;;no;;;;;;;https://laubergeoise.octotable.com/index.html;Lille;Nord;Hauts-de-France;50.6241319406292;3.08093133039725
+Gusto Mio;restaurant;['italian'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6314670336335;3.06443071598061
+Aux Pains Dorés;fast_food;['sandwich'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6312438684746;3.0586493688831
+La Criée;restaurant;['seafood'];La Criée;;;;;;;;;Lille;Nord;Hauts-de-France;50.6508102754043;2.98194793040004
+Taverne Flamande;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6370266604714;3.06961768895073
+Salad&Co;restaurant;['salad', 'french', 'buffet', 'grill'];;yes;yes;yes;yes;;;+33 3 20 00 07 85;https://restos.saladandco.fr/lomme/;Lille;Nord;Hauts-de-France;50.6537481569799;2.98524312089505
+Mac Allans;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6269305742798;3.06819377123961
+Taj Mahal;restaurant;['indian'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6321937389206;3.08832643211014
+Spicy naan;restaurant;['indian'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6316609851549;3.0939442350741
+Café - Brasserie Le Delory;restaurant;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.633507686062;3.06935156352498
+Marta;restaurant;['pizza', 'italian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6342669188515;3.02262706337936
+Les BerThoM - Lille;bar;;Les BerThoM;;;;;;;;;Lille;Nord;Hauts-de-France;50.6251121203864;3.06988699949969
+Le Petrouchka - Chti Resto;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6409966650905;3.05704072705788
+Archimède;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6392696577606;3.05256898171481
+Salad&Co;restaurant;['salad'];;;;;;;;+33 3 59 91 98 39;https://restos.saladandco.fr/lille-nationale/;Lille;Nord;Hauts-de-France;50.6368634648166;3.06250262662286
+Kousbi;fast_food;['falafel', 'lebanese'];;yes;;no;yes;;;+33979088267;https://kousbi.fr/;Lille;Nord;Hauts-de-France;50.6261004305895;3.05664677760873
+L'Oasis;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6380120370085;3.04907414718662
+Level Up;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6199147536855;3.06800584897044
+Xki Food;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6288610942187;3.05287257424777
+Le Porthos;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6411096531453;3.0625058955651
+Le Club Café - Grand Place Lille;cafe;;Le Club Café;;;;;;;;https://www.leclubcafe.com;Lille;Nord;Hauts-de-France;50.6364624745688;3.06404363952132
+Tout chaud;fast_food;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6354712306995;3.06522205128846
+Le Ratisbonne;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6297621488099;3.05328446096971
+Le Sebasto;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6295781660353;3.05880453094269
+Emilie and the cool kids;cafe;['cake'];;yes;yes;;;;;;https://emiliescookies.com/places/lille/;Lille;Nord;Hauts-de-France;50.6363366622021;3.06220003991828
+J'Thai;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6341819263533;3.04247297934234
+La Canopée;bar;;;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6257886237915;3.06479172437955
+La Popote;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6253448858375;3.04889586410613
+El Andalouse;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6249977912271;3.04772449313762
+Pinocchio;restaurant;['italian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6383298787768;3.06840868323698
+Krevette;restaurant;['fish'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.62499494138;3.06825705460855
+Falafel Alep;fast_food;['lebanese'];;yes;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6301201398945;3.05448365985674
+Django Beer;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6416153333637;3.06571138679573
+Estaminet du Welsh;restaurant;['regional'];;;;;;;;;https://estaminetlille.fr/nos-estaminets/lestaminet-du-welsh/;Lille;Nord;Hauts-de-France;50.6426892227983;3.06651143945365
+Be Burger Lille;restaurant;;;;;;;;;+33 3 20 40 92 85;https://wwc.resengo.com/be_burger_lille_lille?lang=fr;Lille;Nord;Hauts-de-France;50.6425497479295;3.06636123574879
+Drops;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6386331360336;3.06032408616903
+O'Local;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6325079764705;3.06369964621507
+Le Rallye;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6310838911214;3.05895674630432
+Beef Art;restaurant;['steak_house'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6313033293465;3.05948514148039
+Le Bar des Six Roses;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6310923568436;3.05222649715117
+L'atomic Pub;bar;;;;;;;;;+33 3 20 40 18 49;;Lille;Nord;Hauts-de-France;50.6317306387702;3.05358134798013
+3 Brasseurs;restaurant;['burger', 'pizza', 'seafood'];3 Brasseurs;yes;;;;;;;https://restaurants.3brasseurs.com/fr/france-FR/455/3-brasseurs-lille/details;Lille;Nord;Hauts-de-France;50.6361628215303;3.06929582386886
+Maison Scarlett;cafe;['cake'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6396205242274;3.06460355065329
+Fripouille;bar;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6315819438079;3.06430917821385
+Molto Pizze;fast_food;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6266871638117;3.04939634754462
+Pitaya;fast_food;['thai'];Pitaya;yes;no;yes;yes;;;;;Lille;Nord;Hauts-de-France;50.6331006608439;3.06256993330533
+XTra Burger;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6370587631605;3.08729679912429
+Crown Tea;cafe;['bubble_tea'];;;;;yes;;;;https://crowntea.fr;Lille;Nord;Hauts-de-France;50.6313830412456;3.05968756444202
+Café Jean;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6239995903781;3.05482036090723
+Mezzo di Pasta;fast_food;['pasta'];Mezzo di Pasta;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6376008208387;3.06400399311929
+Le Culot;restaurant;;;;;;;;;+33320735146;https://www.leculot.com/;Lille;Nord;Hauts-de-France;50.6348401572095;3.06093118741589
+Smart Gorilla;fast_food;['african'];;;;;yes;;;;https://smartgorillalille.fr/;Lille;Nord;Hauts-de-France;50.6211835223689;3.06642083108034
+El Maroco;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6203240420175;3.06257655500883
+Le Bangkok;restaurant;['thai'];;;;;;;;+33328807891;https://le-bangkok-lille.eatbu.com;Lille;Nord;Hauts-de-France;50.6374632738077;3.06030547834399
+Faim;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6352473500657;3.06738064281274
+Domino's;fast_food;['pizza'];Domino's;;;yes;yes;;;+33 3 20 16 91 69;https://www.dominos.fr/magasin/lille-ronchin_59000;Lille;Nord;Hauts-de-France;50.6135953514112;3.07456080537784
+Le Fossile;restaurant;['steak_house'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6364212546934;3.05983804616698
+La Madrague;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6208078678308;3.0518688538968
+La Courte Échelle;bar;['crepe'];Les Amis du Polder;;;;;;;;;Lille;Nord;Hauts-de-France;50.6285088047916;3.11155378506749
+Pickit Up;restaurant;['pizza'];;;;;;;;+33 3 20 09 44 17;https://pick-it-up.fr;Lille;Nord;Hauts-de-France;50.6345406718091;3.02142585283556
+Koko & Riko;restaurant;;;;;;;;;+33 3 20 85 63 53;https://kokoetriko.fr/;Lille;Nord;Hauts-de-France;50.6139727387068;3.0614853988537
+Les Saveurs d'Asie - Lomme;restaurant;['asian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6382900647367;3.02242422132258
+Hein - Brique House;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6388529933538;3.07098754338637
+Pizzeria Reggio;fast_food;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6303076430685;3.04640249936909
+La Base Arrière;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6452972519708;3.06228092528391
+Barrière Lille;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6367634687117;3.07725988916917
+Afri Call Food;fast_food;['african'];;;;;;;;;https://africallfood.com/;Lille;Nord;Hauts-de-France;50.6364145300826;3.06849493302062
+Little Time Coffee;fast_food;['sandwich'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6201310906065;3.06933764956568
+Le Court Debout;restaurant;;;;;;;;;+33 3 52 79 00 52;https://www.le-court-debout.com;Lille;Nord;Hauts-de-France;50.6330313425047;3.06351465761202
+Kolor;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6461848955168;3.05558948434242
+Van House;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6300813316828;3.05583339772477
+Smoki;restaurant;['asian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6295608993147;3.02137564523557
+Le Zeppelin;bar;;;;;;;;;;https://www.privateaser.com/lieu/41228-le-zeppelin;Lille;Nord;Hauts-de-France;50.6306601859159;3.05616993113719
+Drugstore Cafe;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6394490304885;3.05821184656929
+Break & Dej';cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6340987778738;3.02099024532765
+Indian Garden;restaurant;['indian'];;;;;;;;+33983329620;https://indiangardenlille.fr/;Lille;Nord;Hauts-de-France;50.6236726961544;3.04268805897775
+La Famille - Lille Europe;fast_food;;;;;;;;;+33 3 20 05 05 12;https://www.lf.fr/restaurants/la-famille-lille-lille-europe;Lille;Nord;Hauts-de-France;50.6382029767628;3.07916568249374
+La Crêperie de la Grand Place;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6376497711533;3.06322414084804
+Club Marot;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6374629385316;3.06111659511407
+Café Vedette;restaurant;['french', 'regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6414826478365;3.06219895027087
+Royal Burger;fast_food;['burger'];;;;;;;;;https://www.royal-burger.fr/;Lille;Nord;Hauts-de-France;50.6312769263514;3.05941808625499
+La Duchesse;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.645176384927;3.012478590293
+La Maison du Donut;cafe;['donut'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6369171928159;3.0643772392676
+Pizza Hut;restaurant;['pizza'];Pizza Hut;yes;no;yes;yes;;;+33 3 20 04 04 11;;Lille;Nord;Hauts-de-France;50.6326207968873;3.09200985945972
+Snack du Sud;fast_food;['sandwich', 'kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6143126248805;3.04776472627287
+Capulet;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6380861330325;3.06242283090464
+Pixies Bar&Burger;restaurant;['burger'];;;yes;yes;yes;;;;;Lille;Nord;Hauts-de-France;50.630583742959;3.05644938378902
+Les hirondelles;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6352356992203;3.11348806724669
+Pitta Fives;restaurant;['kebab'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6326599403751;3.09126102023021
+Mader;fast_food;['falafel'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6250312350207;3.04823319084122
+Street Food;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6440365299144;3.06260144926128
+La Crêperie du Sébasto;restaurant;['crepe'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.629881088016;3.05763458489773
+Burger King;fast_food;['burger'];Restaurant Brands International;yes;;;yes;;;+33 3 28 05 29 24;https://www.burgerking.fr/restaurant/lille-euralille;Lille;Nord;Hauts-de-France;50.6383442956503;3.07418482035192
+M'Eating;restaurant;['french'];;;;;yes;;25;;https://www.meating-lille.fr/;Lille;Nord;Hauts-de-France;50.6359413716485;3.026986742677
+Le Masséna;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6333751681729;3.05495455517703
+Sista;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6262014325228;3.05602316401263
+Ramen Oden;restaurant;['japanese', 'ramen'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6331054385288;3.06819888420054
+Saray;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6275036449998;3.10839539051653
+Chalet;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6201227925223;3.0228352698542
+IT - Italian Trattoria;restaurant;;;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6369013510189;3.06932457379673
+Naam;fast_food;['thai'];;yes;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6436054486342;3.06793896138313
+Shahi Palais;restaurant;['indian'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6337948500648;3.06407205417307
+La Cantina;bar;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6396089572011;3.05833472526982
+Lebon-bon;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6276295411855;3.06218788615868
+Le Passage Rihour;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6361864584972;3.06303177617019
+Buffalo Grill;restaurant;['steak_house'];Buffalo Grill;;;;;;;+33 3 20 08 29 90;https://www.buffalo-grill.fr/nos-restaurants/lille-lomme;Lille;Nord;Hauts-de-France;50.6510627103662;2.98502101957919
+Saïgon 2;restaurant;['vietnamese', 'thai'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6138687237903;3.06215235836543
+;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6197645087066;3.06732910578678
+Les Toquées;restaurant;;;;;;;;;+33 3 20 92 03 21;https://lestoquees.com/;Lille;Nord;Hauts-de-France;50.6381497940449;3.03481282873836
+Les saveurs de l'Inde;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6289011959444;3.05962131053524
+Amul solo;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6380194969023;3.06662182911845
+Aquarium;bar;;;;;;;;;;https://www.aquarium-lille.com/;Lille;Nord;Hauts-de-France;50.6307241398371;3.05635575793056
+Mezzo Di Pasta;fast_food;['pasta'];Mezzo di Pasta;;;yes;yes;;;;;Lille;Nord;Hauts-de-France;50.6375133975887;3.07504094794206
+Popote;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6274601429224;3.07929442852648
+Pizza Inizio;fast_food;['pizza'];;yes;no;;;;;+33 3 20 74 99 17;;Lille;Nord;Hauts-de-France;50.622670723449;3.09144349426231
+Salad&Co;restaurant;['salad'];;;;;;;;+33 3 20 37 42 55;https://restos.saladandco.fr/btwin-village-lille/;Lille;Nord;Hauts-de-France;50.6185648481795;3.08381084941345
+Sikaru;restaurant;;;yes;yes;;;;;;https://www.sikaru.fr/;Lille;Nord;Hauts-de-France;50.626582390022;3.068192178678
+La Table de Siam;restaurant;['thai'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6416178479347;3.06166896253322
+Le Napoléon;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6370921231352;3.06973612524257
+Bagelcorner;restaurant;['sandwich'];;yes;yes;;yes;;;;;Lille;Nord;Hauts-de-France;50.6342050604061;3.02027568808211
+Origano la pizza;restaurant;['italian_pizza'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6288007445159;3.05914668023024
+Umami;restaurant;['japanese'];;;;;;;;;https://umami59.fr/;Lille;Nord;Hauts-de-France;50.6427325572377;3.06657849467905
+Le Gan'ge;restaurant;['indian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6432956534929;3.06762958533699
+Le Bistrot Thaï;restaurant;['thai'];;yes;no;;;;;+33 3 20 50 93 92;;Lille;Nord;Hauts-de-France;50.6383527613725;3.05914668023024
+Au Boudin Bar;bar;;;;;;;;;+33 3 20 54 98 02;;Lille;Nord;Hauts-de-France;50.6374247170531;3.05812081910082
+Twister;restaurant;['burger'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6326073858421;3.09139429249066
+Chez Molla;restaurant;['pizza', 'turkish'];;;;;;;;+33 3 20 51 21 09;;Lille;Nord;Hauts-de-France;50.6365728642336;3.08602166019452
+O'labo;restaurant;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6274686924636;3.07948377571918
+Subway;fast_food;['sandwich'];Subway;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6358645934154;3.0601690209603
+Bolkiri Lille;fast_food;['vietnamese'];Bolkiri;;;;;;;;https://ordering.bolkiri.fr/restaurants/bolkiri-lille;Lille;Nord;Hauts-de-France;50.6289741660926;3.05366449645959
+Habesha;restaurant;['abyssinienne'];;;;;;;;;http://habesha-lille.zenchef.com/;Lille;Nord;Hauts-de-France;50.6377804450238;3.0693883600799
+Pad Thai & Co;fast_food;['thai'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6334243699445;3.04110329254473
+Pizzeria Nono;fast_food;['pizza'];;;;;;;;+33 320935922;;Lille;Nord;Hauts-de-France;50.645794298829;2.98727429126927
+Bib's;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6394979808031;3.0581785704137
+De Rode Koe;restaurant;['regional', 'french', 'european'];;yes;yes;yes;yes;;50;;https://www.derodekoe.fr/;Lille;Nord;Hauts-de-France;50.6407083276213;3.05993944063241
+Les Casseroles Lilloises;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6313896629491;3.05422868236221
+Albedo Kitchen;restaurant;;;;only;;;;;;;Lille;Nord;Hauts-de-France;50.6287735871496;3.05265506386041
+Donuts & Donuts;fast_food;['donut'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6354022476363;3.06554374873227
+Pizzeria Del Vera;restaurant;['pizza'];;yes;yes;;yes;;;;;Lille;Nord;Hauts-de-France;50.626431767222;3.04873954161195
+Tiparo Thai;restaurant;['thai'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.626529584032;3.04866578086401
+El Viva Fajitas;fast_food;['mexican'];;yes;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6362340677073;3.06628387078249
+Cafe Society;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6372963901155;3.06391615077402
+La Petite Cour;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6383395179654;3.06246708735338
+Gomu;fast_food;['burger', 'bao'];;;;;;;;;https://gomuburger.com/;Lille;Nord;Hauts-de-France;50.6369220543198;3.06571239262411
+Bistrot Tao;restaurant;['asian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6332366991325;3.06482902384866
+Le Bar à Pizzas;restaurant;['pizza'];;;;;;;;;https://lebarapizza.fr/;Lille;Nord;Hauts-de-France;50.6305824856735;3.05484751827351
+Huit Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6325926336926;3.05368285282756
+La Cabane;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6381328020286;3.04887288617815
+Temple's Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6329777821434;3.05483611888519
+Le SpeakEasy;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6325185376685;3.05509989737806
+Le Privilège;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6390591881719;3.05873764335539
+La Terrasse - Restaurant & Pizzéria Lille;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6299671701616;3.09879744083062
+Au Cheval Blanc;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6251384395623;3.04864583193446
+Le Chti Charivari;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.65135954726;2.98192429011169
+Paddo Café;cafe;['breakfast'];;;;;;;;;https://paddocafe.com/;Lille;Nord;Hauts-de-France;50.6355936903048;3.06653658516316
+Lipopette Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6275152958452;3.05731095961622
+Le Beau café;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6302934776521;3.06265534489867
+La Dinette;restaurant;['burger'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6458085480643;3.05610178626441
+Kairos;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6255067403878;3.11352788128679
+Paradise Sushi;restaurant;['sushi'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6346403326379;3.05726938537646
+Bella Italia;restaurant;['italian'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6345332957343;3.06262198492405
+Monkey;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.630203456012;3.06148447684436
+L'Entrepotes Lille;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6391705836651;3.05843388318436
+Café Méo 7;cafe;;Cafés Méo;;;;;;;;;Lille;Nord;Hauts-de-France;50.6364207326909;3.06327912613284
+Au Ch'ti Panini;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6302514843172;3.04627777664987
+Le jardin du bonheur;restaurant;['chinese'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6297637413715;3.0573222751855
+Restaurant Hajveri;restaurant;['pakistani'];;yes;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6299538429355;3.05696067988259
+Sushi Chiwa;restaurant;['sushi'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6368891972593;3.06828982784998
+Sushi Shop;fast_food;['sushi'];Sushi Shop;;;;yes;;;;https://www.sushishop.fr/fr/restaurants/lille;Lille;Nord;Hauts-de-France;50.6326684899163;3.06267546146628
+RU Châtillon;restaurant;;CROUS;;;;;;;;https://www.crous-lille.fr/restaurant/r-u-chatillon-lille-centre/;Lille;Nord;Hauts-de-France;50.6297112706577;3.06276229798317
+Épicé;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6451186336141;3.05704433127627
+L'Estaminet du Pont;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.612047750824;3.07447265490688
+Bubu Bubble Tea;cafe;['bubble_tea'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6354878268678;3.0652746896404
+La Table d'Édouard;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6349769498693;3.0563521537122
+Le Rendez-vous du Marché;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6355631801773;2.97142754894847
+Café Joyeux;cafe;['coffee_shop'];Café Joyeux;;;;yes;;;;https://www.cafejoyeux.com/;Lille;Nord;Hauts-de-France;50.6364432800105;3.06539505376998
+Aux Éphérites;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6296977757935;3.06149017653851
+Thaï Land Square;restaurant;['thai'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6366833377174;3.06506966828877
+Smokey Banh Mi;fast_food;['vietnamese'];;yes;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6418585761938;3.06451637886028
+Le Présentoir;restaurant;['bistronomique'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6366276818803;3.06515298440632
+Chicha Purple;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6323117561172;3.05303442879804
+Croque’s & Pies;restaurant;['sandwich'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6394346974341;3.06471913709805
+Express Pizza;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.618526626701;3.06381229899372
+Le Pearl;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6314125455448;3.04039904504012
+Café du Métro;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6179844852037;3.06056414387592
+Tír na nÓg;pub;;;;;;;;;+33 3 20 54 66 69;http://www.tirnanog.fr/;Lille;Nord;Hauts-de-France;50.6272098592936;3.06082926347329
+411 Avenue Burger;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6426579582995;3.016231755077
+Wok to Walk;fast_food;['asian'];Wok to Walk;;;;yes;;;;https://www.woktowalk.com/fr/restaurants/;Lille;Nord;Hauts-de-France;50.6353783592123;3.06547786697331
+Chez Joseph;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6193251222657;3.07302205488078
+Pizza Pasta;fast_food;['pizza', 'pasta'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6209123722402;3.0524012733666
+The People Lille;bar;;;;;;;;38;;;Lille;Nord;Hauts-de-France;50.6456084655439;3.05573747893032
+Le Cutty Sark;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.634030551976;3.09628319812773
+Le Fontenoy;cafe;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6243701499384;3.06146163543376
+Le Paon d'Or;restaurant;['french'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6329477919841;3.06233752522074
+McDonald's;fast_food;['burger'];McDonald's;no;;;yes;;;;https://www.mcdonalds.fr/restaurants/mcdonalds-lille-centre/30;Lille;Nord;Hauts-de-France;50.6368759491505;3.06283120028346
+Coq Hardi;restaurant;['regional'];;;;;;;;+33 3 20 55 21 08;https://coq-hardi.fr/;Lille;Nord;Hauts-de-France;50.6374125111688;3.06363615678662
+L'intervalle bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6398694667517;3.05656404822443
+Le Quartier Libre;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6439215461134;3.05048650445697
+La Fringale;fast_food;['friture'];;yes;no;;only;;;;;Lille;Nord;Hauts-de-France;50.619246967465;3.03299619006623
+Au petit Festin;fast_food;['friture'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6375075510376;3.08456956492534
+Sushi Boutik;restaurant;['sushi'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6265152509776;3.07977948926313
+Suzanne;restaurant;;;;;;;;;+33 3 20 00 81 21;;Lille;Nord;Hauts-de-France;50.6282891969652;3.06097787461655
+La Ducasse;restaurant;['regional'];;;;;;;;+33 3 20 57 34 10;https://www.laducasse.fr/;Lille;Nord;Hauts-de-France;50.6322444494348;3.05319309822514
+Point B;fast_food;['burger'];;;;;;;;;https://pointb-officiel.com;Lille;Nord;Hauts-de-France;50.6194369852047;3.0637272226765
+Pokawa;fast_food;['poke'];Pokawa;yes;yes;;yes;;;;https://restaurants.pokawa.com/poke-bowl-euralille;Lille;Nord;Hauts-de-France;50.6378949418211;3.07446108788051
+Heavy Water;cafe;['pastry'];;yes;;;;;;;https://www.heavywater.coffee/;Lille;Nord;Hauts-de-France;50.6377616695607;3.06786293752134
+Le Globe Trotter;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6437682251938;3.0586011859717
+Mein Berliner - Döner Kebap;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6200304239493;3.06842662050977
+Agadir Snack;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6208406166633;3.05230680454072
+Le Bouddhabar'bu;restaurant;['thai'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6343389223174;3.04054691853959
+Le poste;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6262042177645;3.0566198651318
+Le fer à cheval;cafe;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6324575174134;3.08982176363628
+Yamstor;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6456248167467;2.98833284182106
+L'assiette Thai;restaurant;['thai'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6305563341356;3.05712303734705
+Big Fernand;fast_food;['burger'];Big Fernand;yes;no;;yes;;;+33 3 20 25 71 77;https://bigfernand.com/restaurants/lille/;Lille;Nord;Hauts-de-France;50.6329550671858;3.06276162743092
+Jour;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6382230933304;3.07217383414252
+Clubtrotter;restaurant;['international'];;;;;;;;;https://clubtrotter.fr/;Lille;Nord;Hauts-de-France;50.6406188927144;3.05413882836018
+Le Kokâlan;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6398731547891;3.05789718992418
+Mian Dian;restaurant;['chinese'];;yes;yes;;yes;;10;;;Lille;Nord;Hauts-de-France;50.6323777216952;3.04858112364195
+Shooter's Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6329473558349;3.05515287100613
+Le Sherwood;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.631690321816;3.05362853809498
+L'absurde;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6268770977376;3.04984829976374
+Chez Ben;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6255730412419;3.05047887033948
+Omija;cafe;['korean'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6322183817159;3.06509984314019
+Sonore;cafe;;;;;;;;;;https://www.sonorelille.com/;Lille;Nord;Hauts-de-France;50.6432819909907;3.05928749620355
+Morel & Fils - Au Moulin d'Or;restaurant;;;;;;;;;+33320550010;https://au-moulin-d-or.hubside.fr/;Lille;Nord;Hauts-de-France;50.6376778505289;3.0639408773884
+Lou;fast_food;['italian_pizza', 'salad'];;;;;yes;;;;https://chez-lou.fr/;Lille;Nord;Hauts-de-France;50.6365404262683;3.06108365423461
+Le Narjis;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6178443397827;3.06616384192904
+Kitchen Market;food_court;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6347979962366;3.06638897984828
+Café des artistes;cafe;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6371572505228;3.0607534910686
+Le Sinclair;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6354083664257;3.0697155895798
+100% Crousti;fast_food;['grill'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6254477317894;3.04925142443875
+JOST;food_court;;;;;;;;;;https://www.jostlille.com/#foodcourt;Lille;Nord;Hauts-de-France;50.6287737547877;3.05179893627027
+Kanaal Café;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6462521183803;3.06109136558553
+Cagnard;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6368088986269;3.06028016499639
+Le Bistrot de St So;bar;;;yes;no;;;;;+33320320542;;Lille;Nord;Hauts-de-France;50.6271107851981;3.07195649139322
+ingenue bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6277319680423;3.05783382273617
+La Crinière - Bistrot;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6294966939364;3.0465849734012
+Pickles;restaurant;;;yes;yes;;yes;;;;;Lille;Nord;Hauts-de-France;50.6264298393843;3.06415922596608
+La Cabane Gourmande;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6385947469171;3.04562968789651
+Ixir Bistro Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6330360363705;3.06429903611101
+Nann Street;fast_food;['burger'];;;;;;;;+33 3 74 46 25 99;https://www.naanstreetlille.fr/;Lille;Nord;Hauts-de-France;50.6144121180712;3.04813554166927
+Le Marché Flottant;restaurant;['thai'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6311425644436;3.05855885736068
+Little Italy;restaurant;['italian_pizza'];;yes;no;;yes;;;;;Lille;Nord;Hauts-de-France;50.6314319915601;3.06455493561489
+Meet People;restaurant;['thai'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6418789442185;3.06571398518571
+Silex;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6416939556155;3.06577978312563
+La Petite Place;bar;;;;;;;;;+33 6 30 00 00 46;;Lille;Nord;Hauts-de-France;50.6430919732458;3.06757527060444
+Oakberry açai;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6366783923945;3.06783804326892
+Le Douze;restaurant;['african'];;;;;;;;+33 7 49 05 09 99;;Lille;Nord;Hauts-de-France;50.6320018771569;3.05859129532595
+Giulietta;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6416606794599;3.06554106652325
+Beerchope;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6415797940943;3.06568498380074
+Le Noailles;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6350849926012;3.06705735280735
+BChef;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6349411591428;3.06609636760851
+Comptoir 44;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6422165672784;3.0662313162496
+Au Point Central;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6393837354628;3.06494268245569
+Rituel;restaurant;;;;;;yes;;;+33 3 20 39 01 50;https://rituel-bar-restaurant-lille.fr/;Lille;Nord;Hauts-de-France;50.6397719852178;3.0538913945785
+Brigand;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6335758309348;3.06143116794019
+Papà Raffaele;restaurant;['pizza', 'italian'];;;;yes;yes;;;;;Lille;Nord;Hauts-de-France;50.640385289073;3.06520268909213
+Le Verlaine;restaurant;['regional'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6263123251018;3.068197459277
+Le Musical;pub;;;;;;;;;+33984160452;https://www.lemusical.fr/;Lille;Nord;Hauts-de-France;50.6369685738824;3.09173049062696
+Gelato & Coffee;ice_cream;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6388134307709;3.06194296694795
+Fataya et Les Merveilles de Dakar;restaurant;['senegalese'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6300245861983;3.04575038730221
+Café Oz - The Australian Bar;pub;;;;;;;;;+33 3 59 05 34 06;https://cafe-oz.com/lille.html;Lille;Nord;Hauts-de-France;50.6416690613631;3.06488057255316
+Pizza du Marché;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6268026664374;3.05053997441362
+Osmoz Café;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6265780314324;3.04863426490809
+Brasserie La Basoche;restaurant;;Crous;;;;;;;;https://www.crous-lille.fr/restaurant/brasserie-la-basoche-lille-moulins/;Lille;Nord;Hauts-de-France;50.6191600471238;3.07000183157317
+Oakberry açai;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6366783923945;3.06783804326892
+Les Chineurs;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6378104522371;3.0584128446074
+La P'tite Place;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6243815537057;3.04579606867449
+Le 168;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6209892298534;3.04644608526561
+Un Coin de paradis;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6331963821782;3.07472545310659
+Le Zébulon;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6410043764414;3.05945228441993
+Pepita;fast_food;['pita', 'sandwich'];;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6363789908132;3.06842242955818
+Al'Carbone;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6334011520727;3.01016149697972
+African Children;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6388503949639;3.05862264364384
+Poulaillon;fast_food;['sandwich'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6382278710152;3.07474448002679
+Tacos Street;fast_food;['tacos'];;;;yes;yes;;;;;Lille;Nord;Hauts-de-France;50.6264140814063;3.05674694135166
+Columbus Café & Co;cafe;['coffee_shop'];Columbus Café & Co;yes;no;;yes;;;+33 3 28 80 76 37;https://www.columbuscafe.com/boutique/lille/;Lille;Nord;Hauts-de-France;50.6373397245549;3.07542886242092
+Pizza Gourmande;restaurant;['pizza'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6403048228025;3.0187665264157
+Tamper! Espresso Bar;cafe;['brunch'];;yes;yes;;yes;;;+33320392821;https://www.tamperlille.com/;Lille;Nord;Hauts-de-France;50.6407939906717;3.06122396729373
+Café des Iles;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6274587179988;3.05160699068759
+IT Trattoria;cafe;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6333249605728;3.06304108008271
+Omo Omo;cafe;['korean'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6362896397253;3.06640716857817
+Le Pacha;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6346127561765;3.05721263989199
+Le Barbier qui fume;restaurant;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6413749403807;3.0620801787029
+Salon Ubu;cafe;['japanese'];;yes;no;;yes;;;;https://www.salonubu.fr/;Lille;Nord;Hauts-de-France;50.6333642716988;3.06817533105263
+Le Point de Départ;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6348713378893;3.04762776597499
+Barberousse;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6326205454302;3.05483838199905
+Le décalé;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6328506286723;3.05514163925588
+La Plage;bar;;;;;;;;;+33 3 20 57 04 16;;Lille;Nord;Hauts-de-France;50.6320873725693;3.05292018345779
+Memphis;restaurant;['american'];Memphis;;;;;;;;;Lille;Nord;Hauts-de-France;50.6513984392907;2.98243424510076
+Le QG;bar;;;;;;;;;;https://www.le-qg-brasserie.fr/;Lille;Nord;Hauts-de-France;50.6360787510415;3.06943454436637
+La Belle Aventure;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.631737931026;3.05499369866487
+Nuts !;cafe;['cake'];;yes;yes;;;;;+33 3 20 35 59 52;https://www.nuts-lille.fr/;Lille;Nord;Hauts-de-France;50.6333369466944;3.06168924673889
+L'Estaminet Lillois;restaurant;['regional'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6386424399461;3.05754028848705
+Chez Ronny;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6433734375544;3.06770326226589
+Jai Ho;restaurant;['indian'];;yes;yes;;;;;+33328377919;https://jai-ho-restaurant-lille.eatbu.com/;Lille;Nord;Hauts-de-France;50.6351073722827;3.0704670271993
+Little Delirium Café;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.639283823177;3.05857939302345
+Jaipur;restaurant;['indian'];;yes;yes;;;;50;;;Lille;Nord;Hauts-de-France;50.6327147580218;3.06823752477416
+Kyoto;restaurant;['japanese', 'sushi'];;;;;;;;+33 3 20 74 53 69;https://kyoto-lille.fr/;Lille;Nord;Hauts-de-France;50.6357852167924;3.06993729091872
+La Cantine Urbaine;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6346639696048;3.0540582782707
+L’Orangerie;biergarten;['cake', 'coffee_shop', 'tapas', 'tea'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.614482945153;3.0701205193221
+Crêpe Touch;restaurant;['regional'];;yes;yes;;;;;;https://restaurants.crepetouch.com/euralille/;Lille;Nord;Hauts-de-France;50.6381102729137;3.07446142315663
+Auguste & Ferdina;fast_food;;;;;;;;;;https://www.augusteetferdinand.com/;Lille;Nord;Hauts-de-France;50.6369768719665;3.06275584391773
+The Level Bar;bar;;;;;;;;;;https://www.thelevel-bar.com/;Lille;Nord;Hauts-de-France;50.6467454772011;3.05751162237817
+La Madrague;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6391838270721;3.05865499779009
+Café de Paris – Chez Boubiers 1930;restaurant;['french'];;;;;;;;+33320131430;https://www.cafedeparis-lille.fr/;Lille;Nord;Hauts-de-France;50.638282940119;3.0650335422861
+The Fridge;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6308777801223;3.05521892040312
+CUP;cafe;['cake'];;yes;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6387187990841;3.05845735251324
+La Piazzeta;restaurant;['italian'];;;;;;;;+33366769386;;Lille;Nord;Hauts-de-France;50.6389967429933;3.05853957898339
+Family's Poulet;fast_food;['chicken'];;;;;;;;;https://linktr.ee/familyspoulet;Lille;Nord;Hauts-de-France;50.6185176580646;3.07180092327033
+Restaurant Campanile Lille Sud - CHR;restaurant;['french'];Campanile;;;;;;;+33320533055;http://www.campanile-lille-sud-chr.fr/fr/restaurant.aspx;Lille;Nord;Hauts-de-France;50.6155445829939;3.03727639943193
+Sindbad;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6244328873609;3.04983362222758
+Café Tabac des Abattoirs;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6453414451097;3.05978872055305
+Friterie des Lilas;fast_food;['friture'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6391191183031;3.08683263221881
+Le Morrison;cafe;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6347777086499;3.06078258179156
+Il Piccolino;restaurant;['italian'];;yes;no;;yes;;;;;Lille;Nord;Hauts-de-France;50.6406001521379;3.05525257708889
+Le Bettignies BBP;bar;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6411457791479;3.0644598848329
+Popeyes;fast_food;['chicken'];Popeyes;;;;yes;;;;https://popeyesfrance.fr/restaurants/popeyes-lille-lomme;Lille;Nord;Hauts-de-France;50.6499098838995;2.98286840348812
+L'Imprévu;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6257258433367;3.10439638451246
+Burger King;fast_food;['burger'];Burger King;;;;yes;;;+33 3 74 09 17 69;https://www.burgerking.fr/restaurant/lille-nationale;Lille;Nord;Hauts-de-France;50.6330874174369;3.05362954392336
+Chamas Tacos Lille Fives;fast_food;['tacos'];;;;;;;;;https://chamas-tacos.com/lille-2/;Lille;Nord;Hauts-de-France;50.6318871289025;3.09337493621058
+Arancinis Lovers;restaurant;['sicilian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6444314851919;3.05768588214517
+L'Imprévu;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6257258433367;3.10439638451246
+Estaminet des Trolls et Petits Lutins;restaurant;['regional'];;yes;no;;;;;;https://www.estaminetdestrollsetpetitslutins.fr/;Lille;Nord;Hauts-de-France;50.6260207186904;3.06628169148766
+Noya;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6344956609891;3.02218164904471
+Pizza Time;fast_food;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6269594695368;3.05727949970042
+Nakhil;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6242898713051;3.05023832126243
+McDonald's;fast_food;['burger'];McDonald's;;;;yes;;;+33 3 20 07 87 87;https://www.mcdonalds.fr/restaurants/mcdonalds-lille-faubourg-de-bethune/636;Lille;Nord;Hauts-de-France;50.6186922625522;3.03454679086586
+Le Moulin d'Or;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6185858631068;3.0720439747904
+El Baraka;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6236731813318;3.05020601785986
+Le Rétro;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6235217430373;3.04942270947308
+Almeyo;restaurant;['french', 'lebanese'];;;;;;;;+33 6 67 71 66 78;;Lille;Nord;Hauts-de-France;50.6324202986203;3.08837360897282
+Subway;fast_food;['sandwich'];Subway;;;yes;yes;;;+33 320 043 203;https://restaurants.subwayfrance.fr/fr/hauts-de-france/nord/lille/subway-lille-rue-de-bethune-160;Lille;Nord;Hauts-de-France;50.6324408374261;3.0623503274422
+Le Colbert café;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6297538507258;3.04574971674995
+Le Braque;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.641040418625;3.06269582949099
+49R;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.640393168062;3.0573016557037
+Hiptown Groove;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6341666712895;3.02271674974332
+Comptoir des copains;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6348348766105;3.06317317887672
+Bioburger;fast_food;['burger'];;yes;yes;;yes;;;;;Lille;Nord;Hauts-de-France;50.6325901191216;3.06258787057811
+Le Spécial;fast_food;['burger', 'sandwich', 'tacos', 'pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6170350670312;3.07427651837261
+Hollyfood;fast_food;['burger'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.637147276058;3.02433906710255
+Berceau d'Afrique;restaurant;['african'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6203788596643;3.07302007108692
+Unik Kebab Lille Centre;fast_food;['kebab'];Unik Kebab;yes;;;;;;+33 3 20 78 11 51;https://www.unik-kebab.fr/;Lille;Nord;Hauts-de-France;50.6364907215825;3.06162948376928
+La Récré;restaurant;;;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6309595874973;3.0444617535083
+Palais du Dragon;restaurant;['chinese'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6355054288644;3.0710803310545
+Les frères pinard;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6404739696086;3.06083563371971
+Friterie du marché;fast_food;['friture'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6273266192048;3.05020335718217
+Pastamia & Co;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6468755643384;3.00007873801422
+Ô Kebab;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6303594432301;3.05940945289473
+Mama Kitchen Caffè;restaurant;['italian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6382184832837;3.07446368627049
+Le Nul Par Ailleurs;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.645607047112;2.9866541980725
+Il Ristorante;restaurant;['italian'];;yes;no;;yes;;;;;Lille;Nord;Hauts-de-France;50.6341423637703;3.06604247197109
+Café du Vieux-Lille;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6398456621467;3.05586893699424
+Unik Kebab Vieux Lille;fast_food;['kebab'];;yes;yes;yes;yes;;;;;Lille;Nord;Hauts-de-France;50.639294384375;3.05832466698601
+Aokamo;restaurant;;;yes;yes;;yes;;;;https://www.aokamo-lille.com/;Lille;Nord;Hauts-de-France;50.636360047712;3.06589268736138
+M Thai;restaurant;['thai'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6363893843731;3.06899843394427
+Le Pare Brise;pub;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6312542952128;3.04861238814081
+My Fluffy;restaurant;['pancakes'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6332908462269;3.06273296132207
+Aux Filles du Cambodge;fast_food;['thai'];;yes;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6319177228491;3.05500476277706
+Seven Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6320589579176;3.05298296391257
+Les Fils à Maman;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6425950940257;3.06641186244394
+Sweet Africa;restaurant;['african'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6281365625084;3.05779358960095
+L'arrière pays;restaurant;['french'];;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6387188829031;3.0612027610787
+Alexens;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6338900684848;3.02071506744645
+Le Mother;restaurant;['burger'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.624876085993;3.06985942303825
+Chamas Tacos;fast_food;['tacos'];Chamas Tacos;;;;yes;;;;https://chamas-tacos.com/chamas-tacos-lille/;Lille;Nord;Hauts-de-France;50.61945902961;3.06694319128613
+Mon Petit Thaï;restaurant;['thai'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6287186856838;3.05253377772149
+Le Studio Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6283632929893;3.05834905832424
+Burgan Tacos;fast_food;['tacos'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6198148413997;3.06767794891832
+Le Switch;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6341252333616;3.01994432589892
+Au Carrefour;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6272584530251;3.03923155848827
+Le Flam's;restaurant;['flammekueche'];flam's;yes;no;;yes;;;+33320541838;https://www.flams.fr/;Lille;Nord;Hauts-de-France;50.6371757158258;3.06163953501282
+Omnia;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6372017489204;3.06202519011011
+McDonald's;fast_food;['burger'];McDonald's;no;;;yes;;;+33 3 20 57 82 61;https://www.mcdonalds.fr/restaurants/mcdonalds-lille-place-de-bethune/151;Lille;Nord;Hauts-de-France;50.6327245305814;3.06214737164695
+Chez Bacchus;restaurant;['lebanese'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.624320394928;3.05468278271422
+Salon de thé;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6241892992876;3.05029453984218
+;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6328365600954;3.0906743725091
+Friterie la Patate qui Fume;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6322915557306;3.07609782211318
+Tacos & Co;fast_food;['tacos'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6184746589013;3.07126347563883
+L'Express;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.635673234566;3.0700140691518
+Las Tapas;restaurant;['spanish'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6463645197018;3.05537683545893
+;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6407575293929;3.06003935291821
+Chicken spot;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6326841640753;3.09178991832047
+TAT Berliner kebab;restaurant;['chicken'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6324756223243;3.09175018809941
+Le SpotLight;pub;;;;;;;;;;https://www.spotlight-lille.com;Lille;Nord;Hauts-de-France;50.6304471179372;3.05685833684484
+Pad Thai;fast_food;['thai'];;no;;;yes;;;+33 3 20 55 69 35;https://www.pad-thai-lille.com/;Lille;Nord;Hauts-de-France;50.6331489406062;3.0613475165465
+Maison L;restaurant;['lebanese'];;;;;;;;+33766161619;https://maison-l.eatbu.com;Lille;Nord;Hauts-de-France;50.6273699536442;3.04944337002144
+taobento;fast_food;['sushi', 'asian'];;yes;no;;yes;;;;;Lille;Nord;Hauts-de-France;50.6363528392753;3.06903908617466
+Cafét IAE;cafe;;Crous;;;;;;;;https://www.crous-lille.fr/restaurant/cafeteria-iae/;Lille;Nord;Hauts-de-France;50.6462834666982;3.06204732164247
+Le Voltaire;cafe;;;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6370469446771;3.06228385895002
+Byzance;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6365551784179;3.0253975338353
+Bar Parallèle;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6388082339909;3.06209702632827
+La bottega;restaurant;['italian'];;yes;no;;;;;+33 3 20 74 33 12;https://www.la-bottega.com/la-bottega-pizzeria.php;Lille;Nord;Hauts-de-France;50.641143264577;3.06182235136129
+La Biche & le Renard;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6415023453089;3.0656214489747
+Club café;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6386890433278;3.07613998308617
+Salon Manel;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6343942399607;3.09776646674027
+L'oasis;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.624865692433;3.049698431335
+Le Président;restaurant;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6368502214096;3.06293446227434
+Cap Sauvage;cafe;;;;;;;;;;https://cap-sauvage.fr/;Lille;Nord;Hauts-de-France;50.6347413345711;3.05598276323934
+Le Beau Bourg;biergarten;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6456205419761;2.98743706782889
+Le Timgad;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6362538489988;3.06871554471215
+White lotus;restaurant;['thai'];;;;;;;;;https://whitelotus-france.fr/;Lille;Nord;Hauts-de-France;50.637957973733;3.06229115120578
+Salon Souvenir;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6200732554746;3.06402025401144
+Salsa Posada;restaurant;['tex-mex'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6432017761774;3.05938874959389
+Notting Hill coffee;cafe;;Notting Hill coffee;;;;;;;;;Lille;Nord;Hauts-de-France;50.639748599708;3.06447757064859
+La Halle Gourmande;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6276800840616;3.0924019648902
+La Houblonnière;restaurant;['regional', 'french'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6373264811479;3.06365555740436
+Kong Bar;bar;;;;;;;;;;https://kong-bar.eatbu.com;Lille;Nord;Hauts-de-France;50.6396220329701;3.05808796204039
+Délices Univers;restaurant;['african'];;;;;;;;+33 359716703;;Lille;Nord;Hauts-de-France;50.6207449811949;3.06108692317684
+Fresh Burritos Lille Bethune;fast_food;['burritos'];Fresh Burritos;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6334306563719;3.06311576284
+La clé de sol;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.634508652939;3.0727556220418
+Subway;fast_food;['sandwich'];Subway;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6368656514851;3.07136194661655
+Barnett’s Lille;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6466127536902;3.05724320377999
+Quai 38;restaurant;['fish'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6467120934903;3.05780335970925
+Lacquemant de Lille;fast_food;['donut', 'waffle'];;yes;no;;only;;;;;Lille;Nord;Hauts-de-France;50.6342910993007;3.06391121660217
+Le Mekong;restaurant;['vietnamese', 'thai'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6244515095718;3.05015064245355
+Le Royal;restaurant;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6381355862612;3.06643516413476
+Brasserie de la Cité;restaurant;['brasserie'];;;;;;;;+33320291932;;Lille;Nord;Hauts-de-France;50.6101981162507;3.04030667646714
+La Mamounia;restaurant;['moroccan'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6220276638375;3.05360255419515
+Trattoria Norte;restaurant;['italian'];;;;;;;;;https://trattorianorte.fr/;Lille;Nord;Hauts-de-France;50.6536540765184;2.98449549124134
+Le Bugatti;cafe;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6274986996769;3.06980427011536
+Café de la Poste;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.626471329805;3.10685027048552
+Affamés Assoifés;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6275769866526;3.0420196860187
+Magnum Café;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6323148574214;3.0550751707637
+Le Verde;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6331116411371;3.05519545107424
+Dio Ristorante - Lille;restaurant;['italian'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6324798970949;3.05548747658082
+Chtite Brigitte;restaurant;['regional'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6384859498139;3.05827504611923
+Safran;restaurant;['indian'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6295856259291;3.05820212356161
+Don Pino Pizza;restaurant;['italian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6261479559806;3.11222717755231
+So'Drive Burger;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6457689854814;2.98659007651321
+Le 28;restaurant;;;;;;;;;+33 3 28 53 52 82;http://www.le28thiers.fr/;Lille;Nord;Hauts-de-France;50.6380146353984;3.05886362336008
+Xiong Mao Eat;restaurant;['asian'];;;;;;;;+33 3 28 05 33 58;https://www.fivesthai.fr/;Lille;Nord;Hauts-de-France;50.6371704939298;3.06419082574104
+Le Plaza Restaurant;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6398223604559;3.07586757123303
+Masala St.;fast_food;['naans'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6309135708489;3.0557095970149
+Sympa;restaurant;;;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6365998539618;3.06518575764773
+Snack Center;restaurant;['kebab'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6328658837361;3.0906960799563
+Daehan;restaurant;['korean'];;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6301423519379;3.06148145935921
+Urban Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6330169256313;3.06334727100565
+Basilic & Co;restaurant;['pizza'];Basilic & Co;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6358905773152;3.05953903711779
+Bart;fast_food;['sandwich'];;yes;;;;;;;https://bartgruppo.wixsite.com/bart;Lille;Nord;Hauts-de-France;50.6386903844323;3.05827144190087
+La Team Croquette;fast_food;['regional'];;yes;no;;only;;;;;Lille;Nord;Hauts-de-France;50.6316168963442;3.064190741922
+La Villa Club;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6320300403516;3.05304348125347
+Tel Pizza;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6176547411329;3.02806716999606
+Chez Philippe;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6341491531119;3.10286844738295
+Tumi;restaurant;['peruvian'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6309845655688;3.06027899152994
+Turkmen;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.613851787844;3.04777226998573
+Café Bellevue;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6365971717528;3.06226432911564
+Yatai;restaurant;['asian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6262540708747;3.04716609074822
+Laksøn;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6384256839301;3.06258577510232
+L'Antre de Lomme;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6471366606222;3.0052030983384
+BurgerOnomy;fast_food;['burger'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6302953216708;3.04730548179799
+Le Barillet;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6392459369746;3.06495994917623
+Le Molinel;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6345781389163;3.06877153582536
+Cœur Grenadine;restaurant;;;;;;;;;+33 9 77 46 17 52;https://www.instagram.com/coeurgrenadinelille?igsh=MTc0YmU5dmd4ODVndg==;Lille;Nord;Hauts-de-France;50.6411457791479;3.06167038745676
+Le 17.45 Lille;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6451837610018;3.05665918282543
+La Blonde;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6382787491674;3.05846053763645
+sling;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6221871714549;3.07325484819481
+Au Monté Christo;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6189499966303;3.04966448462713
+Chicon pressé;restaurant;;;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6378415490979;3.06961106724722
+La Nouvelle Aventure;cafe;;;;;;;;;;https://lanouvelleaventure.fr/;Lille;Nord;Hauts-de-France;50.6270116272835;3.04858254856549
+Le Tropic 97;restaurant;;;;;;;;;+33320130520;;Lille;Nord;Hauts-de-France;50.6394903872214;3.05896927925088
+Ché Mia;fast_food;['sandwich'];;;;;;;15;;;Lille;Nord;Hauts-de-France;50.6227048086079;3.06239121490673
+Food Street;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.618910707004;3.07256727554132
+Le Scoop du Vieux Lille;restaurant;['french'];;;;;;;;+33 3 20 74 94 34;https://www.le-scoop-lille.fr/;Lille;Nord;Hauts-de-France;50.6447113542241;3.05768411637689
+Le Tabou;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6251613484356;3.08915309869357
+L'escale;restaurant;['regional', 'french'];;;;;;;;;https://lescale59.eatbu.com;Lille;Nord;Hauts-de-France;50.634640751733;3.04023383772855
+Friterie le Ch'ti creux;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6586204128017;2.97629404002152
+Maboule;restaurant;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6334067679478;3.0681699666346
+Papà Posto;cafe;['italian'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6401558763831;3.06501325808043
+Le Cerisier en Ville;restaurant;['fine_dining'];;;;;;1;;;;Lille;Nord;Hauts-de-France;50.642015066326;3.06433667085625
+La Fleur de Lille;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6418330952082;3.0656764342595
+Estaminet Chez la Vieille;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6427390951222;3.0668966717235
+Pause Sandwiche;fast_food;['sandwich'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6344703476415;3.02114044903252
+Omega;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.636056287541;3.04539759299763
+Ffa - Federation Française De L'aperitif - Lille;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6403982810229;3.06070705532503
+La Buissonière;restaurant;;;;;;;;;+33 3 28 80 76 38;;Lille;Nord;Hauts-de-France;50.6352703164804;3.01330504594591
+L'Addict;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6241727604977;3.0714424292716
+Café Françoise;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6382706187214;3.063110482241
+Fii by Wally's;cafe;['coffee_shop'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6242382231615;3.03844882762871
+L'Île de Crête;restaurant;['greek'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6435136667945;3.06784156366825
+Le bistrot Lillois;restaurant;['regional'];;;;;no;;;;;Lille;Nord;Hauts-de-France;50.6421204268489;3.06612645864089
+White Wood Food;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6309953782238;3.0264917912946
+Ginko;restaurant;['fine_dining'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6353272296029;3.06013825937566
+Fooday;fast_food;;;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6309080387928;3.04451246402252
+Noao;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6390062983629;3.05948388419492
+Friterie Meunier - Béthune;fast_food;['friture'];;no;;;yes;;;;https://www.friterie-meunier.fr/;Lille;Nord;Hauts-de-France;50.6328091382516;3.06238687254003
+O Thai;restaurant;['thai'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.637382388442;3.06744233362011
+La Place;cafe;;;;;;;;;+33 9 53 54 30 65;;Lille;Nord;Hauts-de-France;50.6369233954243;3.06411689735504
+Chez Oit;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6332965459211;3.05939646094481
+Pékin;restaurant;['chinese'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6362052339604;3.06867799378594
+Tortillas;fast_food;['mexican'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6298165473615;3.04589572950323
+Yaya Happy Tea;fast_food;['vietnamese', 'bubble_tea'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6302788931406;3.04633913218112
+Maison Ramen;restaurant;['ramen'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6301032922691;3.05719948030401
+Le Lion Bossu;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6403295494169;3.06509372435087
+High Voltage;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6297062415157;3.05795343249446
+Monsieur Le Zinc Lille;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6328100602609;3.0537088367274
+Izumi;restaurant;['japanese'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6340988616929;3.06107468559821
+Snack Zagora;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6252579655016;3.04951243690357
+Royal Burger City;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6257807448025;3.11344314024569
+Carré des Halles;pub;;;;;;;;;+33 3 20 54 61 23;;Lille;Nord;Hauts-de-France;50.6323124266695;3.05331916204887
+KOF;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.622612469222;3.05366005405091
+Kap Tacos;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.611989831873;3.07488747529493
+takk;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6235261804869;3.04238773538705
+Le petit Thaï;fast_food;;;;;;only;;;;;Lille;Nord;Hauts-de-France;50.6473404246884;3.00296093923947
+Sezame;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6319840237031;3.09314602643491
+Le Bon Jeune;fast_food;['burger', 'hot_dog'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6273828617751;3.05720735929299
+Soho Urban Food;restaurant;['pizza', 'pasta', 'salad'];;;;no;no;;300;;;Lille;Nord;Hauts-de-France;50.6379586442852;3.0661967828085
+Friterie Ch'timi;fast_food;['friture'];;yes;no;;yes;;;+33 6 31 49 16 89;;Lille;Nord;Hauts-de-France;50.6446669328521;3.0128782394363
+Campion Brasserie;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6386690943982;3.06250237516576
+Soultrain Café;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6299131907051;3.06550569489187
+Le Jockey Club;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6261735207852;3.0489111191699
+Mumtaz Mahal;restaurant;['indian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6270328334986;3.05724717333305
+Café Tabac;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6442037488827;3.06261997326729
+Chez Veli - Grillades et Kebab;fast_food;['burger', 'sandwich', 'tacos', 'pizza'];;;;;yes;;;+33 9 51 53 64 51;;Lille;Nord;Hauts-de-France;50.6316520165185;3.04371676995424
+Central Hôtel & Hostel Lille;bar;;;;;;;;;;https://www.facebook.com/profile.php?id=61573243146482;Lille;Nord;Hauts-de-France;50.6347836631821;3.05509553878841
+L'ambassade;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6310295763888;3.05490392848188
+Friterie Chti'mi;fast_food;['friture'];;yes;no;;yes;;;;;Lille;Nord;Hauts-de-France;50.6446669328521;3.0128782394363
+La Mousse Touch';bar;;;;;;;;;+33 9 71 57 43 09;https://flow.page/lamoussetouch;Lille;Nord;Hauts-de-France;50.6271592325984;3.06980779051469
+Coup de Coeur;fast_food;['friture'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6191971789549;3.04934848687751
+Sweet Flamingo;fast_food;['bagel', 'cake', 'coffee_shop', 'tea'];;yes;no;no;yes;;;+33 9 53 57 67 98;https://www.sweetflamingo.fr/;Lille;Nord;Hauts-de-France;50.6295260305975;3.06118884711944
+A Chiper A choper;bar;;;;;;;;;;https://2ac-club.com/;Lille;Nord;Hauts-de-France;50.6334448217882;3.05496092542344
+Marmaris;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6315014775374;3.05402542121024
+Chez Simone;restaurant;['french'];;;;;;;;+33 3 20 31 55 52;https://chezsimone-lille.fr/;Lille;Nord;Hauts-de-France;50.6355035848457;3.06984198867966
+Tam-Tam;bar;;;;;;;;;+33 3 28 52 47 30;;Lille;Nord;Hauts-de-France;50.6323670766782;3.05573306634381
+Café Bellot;cafe;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.624234199848;3.06442384264926
+Lille Aux Gourmandises;ice_cream;;;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6394954662321;3.06193936272959
+Père & Fish Lille;fast_food;['burger', 'fish_and_chips'];;yes;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6362722891858;3.06044679723149
+Happy F'eat;restaurant;['brunch', 'international'];;yes;yes;;;;;+33328141859;;Lille;Nord;Hauts-de-France;50.6364054776272;3.05910686619018
+Chez Max;restaurant;;;;;;;;;+33 3 20 77 59 86;https://www.chezmaxbistrotlillois.com/;Lille;Nord;Hauts-de-France;50.6309128164776;3.05514943442583
+KAF - Kiosque à Fraîcheurs;fast_food;['sandwich'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6364303718796;3.06892056606378
+La Luck;restaurant;;;;;;no;;;;;Lille;Nord;Hauts-de-France;50.6462175849392;3.05978169321466
+Burger Hunter;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6186166483411;3.0709477293463
+La Griffe;bar;;;only;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6270850527553;3.05729562073341
+Kei’s Coffee;cafe;['donut'];;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6384692698266;3.06483816012312
+Yori;restaurant;['korean'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6359538606842;3.05920753284727
+Le Comptoir Volant;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6398076921253;3.06458267971439
+Tramontana Ristorante;restaurant;['italian', 'italian_pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.62431625868;3.03853482595528
+Champthé;restaurant;['noodle'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6321255940478;3.08732303448124
+Le Palazzo;restaurant;['italian'];;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6337455644741;3.06782505131901
+La Bubbette;cafe;;;;;;;;;+33 6 60 35 54 06;https://labubbette.fr/;Lille;Nord;Hauts-de-France;50.6229424647499;3.06316655717322
+Afri Call Food;restaurant;['african'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6326408296358;3.09130946763057
+L'Atlas;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6339206624314;3.09454907320711
+Bubble.Ice Lille;fast_food;['bubble_tea', 'waffle'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.630747441528;3.05544104083722
+Baan Boon;restaurant;['asian', 'thai'];;no;;;;;;+33 3 20 58 81 76;;Lille;Nord;Hauts-de-France;50.6248941909038;3.06823978788802
+Champthé;cafe;['tea', 'asian', 'cake'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6339241828307;3.06628252967798
+Fast Pizza;fast_food;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6073372888785;3.05900016456278
+Mesa;restaurant;;;;;;;;;+33 3 20 13 00 37;https://www.mesa-lille.com;Lille;Nord;Hauts-de-France;50.6349831524777;3.08041735209463
+Au goût du jour;restaurant;['french'];;no;;;;;;+33320512345;https://www.augoutdujour.eu/;Lille;Nord;Hauts-de-France;50.6388805595323;3.05760209296983
+GUR;fast_food;['kebab'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6325144626271;3.06256196439064
+Chick'n Beef;fast_food;['burger'];;;;;;;;;https://chicknbeef.fr/;Lille;Nord;Hauts-de-France;50.6207690069098;3.05229481658204
+Café Rabelais;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6370668945354;3.08493324101231
+El kantaoui;restaurant;['arab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6285541112634;3.10551012907405
+Friterie - Snack;fast_food;['sandwich'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6073476174786;3.04320351028675
+Le Barbue d'Anvers;restaurant;['regional'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6373782813095;3.06201505131526
+Cố đô Huế;restaurant;['vietnamese'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.629690986452;3.06118448852979
+Le Jeanne d'Arc;cafe;['sandwich'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6264271571752;3.06424958288227
+Le Basilic;restaurant;['italian'];;;;;;;;;https://www.le-basilic-restaurant-lille.fr/;Lille;Nord;Hauts-de-France;50.625726681527;3.0649561773198
+Jaja;bar;;;;;;;;;;https://www.jajalille.com;Lille;Nord;Hauts-de-France;50.6440465881982;3.05853387928923
+Quai des Bananes;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6419407188449;3.05663688696299
+Friterie Mestré;fast_food;['friture'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6277073252469;3.05065597995355
+Woko Cantine Viet;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6380925870979;3.0750094319861
+Onloa Poke;fast_food;['poke'];;yes;;;;;;;https://www.onoloa.fr/;Lille;Nord;Hauts-de-France;50.6231890603412;3.07972483925445
+Gorilla Brothers;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6447162184428;3.05729176505795
+Bistrot Franquette;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6359477749871;3.05853925886395
+Le Tout Quai;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.638580993376;3.0541471139672
+Cucina Popolare;fast_food;['italian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.640643026594;3.06603603065052
+Pizza Delizio;restaurant;['pizza'];;;;;;;;;https://www.deliziopizza.fr/;Lille;Nord;Hauts-de-France;50.6224827388717;3.0719470508984
+Old Wild West;restaurant;['burger'];Old Wild West;;;;;;;;;Lille;Nord;Hauts-de-France;50.6514178770245;2.98556906092908
+Tsing Tao;restaurant;['thai', 'vietnamese'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6248111691611;3.04962961722094
+Amandine Croque;fast_food;['sandwich'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6389268379208;3.05833522818401
+Nashville Hot Chicken;fast_food;['chicken'];;;;;;;;;https://www.nashvillehotchicken.fr/;Lille;Nord;Hauts-de-France;50.6317924972156;3.05499646469292
+Nigiri Thai;restaurant;['thai', 'sushi'];;yes;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6299201476847;3.05607068940361
+Bosphore Kebab;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6324328746181;3.05507994844851
+Tbilisi;restaurant;['georgian'];;yes;;;;;;+33 7 58 04 74 05;https://restauranttbilisi.fr/;Lille;Nord;Hauts-de-France;50.6325822401327;3.0557179789181
+L'imprévu;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6331882517321;3.05489755823547
+Au Barbu;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.624699144017;3.04523992939895
+Dunya;restaurant;;;yes;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6334296505435;3.09090277768857
+La Braise du Gambetta;restaurant;['algerian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6257149468626;3.05174613028029
+Aspendos;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6256834309067;3.05078338488178
+;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6313090292441;3.11399670166201
+Saray;fast_food;['turkish'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6275131165504;3.10777613551008
+Mezze & Co;restaurant;['lebanese'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6289090387049;3.05300249374696
+Bistro Romain;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6231656064206;3.0543205450751
+;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6383473285429;3.07658342998275
+Café de l'Octroi;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.629635582072;3.09890414245803
+La Moulinette - Brood - Moulins Coop;cafe;['coffee_shop'];;yes;yes;;yes;;102;;;Lille;Nord;Hauts-de-France;50.6223388839023;3.06241176679245
+Paddo Café;cafe;['breakfast'];;;;;;;;;https://paddocafe.com/;Lille;Nord;Hauts-de-France;50.6395297482161;3.06188831693927
+Les Tontons Afro;restaurant;['african'];;;;;;;;+33 7 57 59 47 26;;Lille;Nord;Hauts-de-France;50.6412963181289;3.06250329717511
+Davonn;restaurant;['thai'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6386492292877;3.06045325129693
+La Patate qui Fume;restaurant;['burger'];;;;yes;;;;+33320028349;;Lille;Nord;Hauts-de-France;50.6292321610722;3.03631898603234
+BierBuik - Bloemeke;bar;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6394015889166;3.05824327870619
+Carbone;bar;;;;;;;;;;https://www.privateaser.com/lieu/45852-carbone;Lille;Nord;Hauts-de-France;50.6389807335582;3.07080791920137
+Les Quais du Vieux-Lille;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6470350719557;3.05855609133263
+Le Fief de Papa;restaurant;['regional'];;no;;;;;;;https://lefiefdepapa.fr/;Lille;Nord;Hauts-de-France;50.631476583285;3.09494285501822
+Mister Chicken;fast_food;['chicken'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6309632755347;3.05866782210194
+Eva;restaurant;;;;;;;;;+33320294826;https://chezeva-restaurant.fr/;Lille;Nord;Hauts-de-France;50.6373682230257;3.06174029252921
+Mamsi;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6313058439174;3.05896739132135
+Brasserie André;restaurant;['french'];;no;;;;;;+33320547551;https://brasserieandre.fr/;Lille;Nord;Hauts-de-France;50.6332741662396;3.06297301902896
+Le Chopp'ing;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6394004992691;3.05849264032562
+Häagen-Dazs;ice_cream;;Häagen-Dazs;;;;;;;;https://www.haagen-dazs.fr/shop/lille/lille;Lille;Nord;Hauts-de-France;50.6352698973852;3.06470019399688
+Le Singing Studio;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6362892206302;3.07709568768601
+Le Bel Ouvrage;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6270526986091;3.0608049559541
+Nomad;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6228087733943;3.05992066516927
+;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6300274360454;3.05682262993733
+Le Syrah Luna;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6252519305313;3.04826772428231
+Pizza Delices Burger;fast_food;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6456155966533;2.98712098626024
+Voyages Gourmands;restaurant;;;;;;;;;+33328459320;;Lille;Nord;Hauts-de-France;50.6352668799001;3.07008196256751
+Columbus Café & Co;cafe;['coffee_shop'];Columbus Café & Co;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.616057234207;3.04789866908558
+Monsieur Jacques;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6418925229017;3.0659352674295
+La Vieille France;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.642852166996;3.06673037476455
+Magmatic;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6362560282936;3.06740603997935
+Pizzeria d'omi;restaurant;['italian_pizza', 'pizza'];;;;;;;;+33 3 20 04 31 05;;Lille;Nord;Hauts-de-France;50.6341756399259;3.1078060589044
+Germaine;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6372219588153;3.03446256211745
+Côté Sushi;restaurant;['japanese', 'peruvian', 'sushi'];Côté Sushi;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6330521296246;3.06251042179281
+Happy Fox;restaurant;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.642329220057;3.08700418688451
+Le Braz;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6406040567459;3.06010883889553
+En face;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.639756646335;3.06152647017927
+Boomkeur;bar;;;;;;;;;;https://www.boomkeur.fr/;Lille;Nord;Hauts-de-France;50.6387270971682;3.05817186489116
+Le Club Café - Beaux-Art;cafe;;Le Club Café;;;;;;;;https://www.leclubcafe.com;Lille;Nord;Hauts-de-France;50.6325728524011;3.06201387784881
+L'Assiette du Boucher;restaurant;['steak_house'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6192112605522;3.05093794717629
+Wagon;restaurant;;;;;;;;;+33 3 20 12 13 12;https://www.wagonrestaurant.fr/;Lille;Nord;Hauts-de-France;50.6359607338448;3.06964928872569
+Yop City;restaurant;['african'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6323339681606;3.06508869520897
+Bodrum;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6183228752526;3.07144569794327
+Nador;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.61943926642;3.05117037516911
+Bacio Divino;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6455760481545;3.05585037898327
+La Piadina;restaurant;['pasta', 'pizza'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6451490168951;3.08594319699893
+Café le Bras d'Hambourg;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6331239690088;3.08961442643276
+A Legna;restaurant;['italian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6332064015298;3.09072983893803
+McDonald's;fast_food;['burger'];McDonald's;;;yes;yes;;;+33 3 20 08 32 24;https://www.mcdonalds.fr/restaurants/mcdonalds-lomme/302;Lille;Nord;Hauts-de-France;50.6508046935659;2.98424660921912
+Chez Armand;restaurant;['italian'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6346706697029;3.06341889799316
+Le Métropole;cafe;;;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6361308339147;3.06284322307944
+Piccolo Mondo;restaurant;['italian'];;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6344947223566;3.06318992264192
+Le condé;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6194001817865;3.06274648324045
+Les Bains;pub;;;;;;;;;;https://www.lesbains.fr;Lille;Nord;Hauts-de-France;50.6240657501808;3.0720581161629
+Les Compagnons de la Grappe;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6386494807448;3.06317368179091
+Jomon Negishi;restaurant;['japanese'];;;;;;;;+33 3 28 36 84 46;https://www.jomon-negishi.com/;Lille;Nord;Hauts-de-France;50.641127590418;3.0655454251129
+Goody Goody;pub;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6270293969183;3.0698260630636
+DjurDjura;restaurant;['moroccan'];;yes;yes;;no;;;+33 320978406;;Lille;Nord;Hauts-de-France;50.626856897351;3.06820542208501
+Le Chantecler;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6295793395017;3.06118658400558
+Au Coq d'Or;pub;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6322443656157;3.08651753358626
+Le Comptoir des Bistronomes;restaurant;['french'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6331969689114;3.06819377123961
+O'27;fast_food;['burger', 'tacos', 'kebab'];;;;yes;yes;;;;;Lille;Nord;Hauts-de-France;50.6328984893394;3.05514549493134
+Le First;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6269143972067;3.04983446962351
+Junk;fast_food;['burger'];Junk;;;;;;;;;Lille;Nord;Hauts-de-France;50.6384411904509;3.06043455965286
+Le 22;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6331109705848;3.05689873761813
+Le Bidule;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6290364436332;3.0555886461521
+L'Idéal;cafe;;;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6264813880888;3.06438629172303
+Cafétéria Cdg59;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6162441506478;3.10508965172394
+Le Métro;cafe;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6312854758926;3.09542196460362
+Flandres Liban;restaurant;['lebanese'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6237124263754;3.05459748610184
+La Confrérie;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6324423461687;3.04290146223255
+Pizza Capri;fast_food;['pizza'];;yes;no;;;;;;https://pizzacaprilille.com/;Lille;Nord;Hauts-de-France;50.6331152453555;3.0628328736079
+Douceurs de Phuket;restaurant;['thai'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6266653708634;3.04968736722282
+Le Galopin;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6299025456881;3.09894638725001
+The Kitchen Burger;fast_food;['burger'];;;;;;;;+33 3 74 69 65 68;;Lille;Nord;Hauts-de-France;50.646755786942;3.00672625778307
+La Planque;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6407557691933;3.06004245422238
+Terre de Cafés;cafe;;;;;;;;;;https://www.terresdecafe.com/;Lille;Nord;Hauts-de-France;50.6407162904293;3.06404749519677
+La table du Clarance;restaurant;['french'];;;;;;;;+33 3 59 36 35 59;;Lille;Nord;Hauts-de-France;50.6387554280009;3.05705405428395
+Tous les jours dimanche;cafe;['brunch'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6393015928117;3.06152093812318
+Bleu Canard;restaurant;['bistronomique'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6363301243176;3.0659297353734
+De Straat;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6415633655641;3.05481239809922
+Maloot Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6388440247175;3.05854896671494
+Squadra;restaurant;['italian', 'italian_pizza'];;;;;;;;;https://squadraclub.fr/;Lille;Nord;Hauts-de-France;50.6347641333477;3.08021425858075
+Tacos Shake;fast_food;['tacos'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6197301841777;3.05133675812928
+Ice'Crêp;restaurant;['crepe'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6268927718965;3.10897583731131
+Il Piada;fast_food;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6440651960232;3.06265844620285
+Pokawa;fast_food;['poke'];Pokawa;;;;yes;;;;https://restaurants.pokawa.com/poke-bowl-gare-lille-flandres/;Lille;Nord;Hauts-de-France;50.6368084795318;3.06994634337414
+Bistrot Brigand;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6334541257007;3.06169804773722
+Saray;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6275036449998;3.10839539051653
+Bazar Ambulant;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.630678793741;3.07693224057411
+La Sandwicherie Libanaise;fast_food;['lebanese'];;yes;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6360208320906;3.04531813255554
+Les Francs Burgers;restaurant;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6392445958701;3.0702932703465
+Shake'n Out;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6366889535925;3.06443364947597
+Kapris Pepper;fast_food;['burger'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6386422723081;3.06038317858639
+L'Atelier Iodé;bar;['seafood'];;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6377152338171;3.05824763729584
+O Berliner;fast_food;['kebab'];;;;;;;;+33361979553;;Lille;Nord;Hauts-de-France;50.6246008242928;3.04423862724582
+Taste'n Brews Lille;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6257296990122;3.06459374382658
+Le Coincoin;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.646119349034;3.05534992954972
+Le bon bistrot;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6282894484224;3.06156058452518
+Ch'ti Bao;fast_food;['bao'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6326181984973;3.06186769745747
+Friterie du Marais;fast_food;['friture'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6353266428697;3.00907377740489
+Pureté;restaurant;['fine_dining'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6415205340388;3.06182386010386
+Mü;cafe;['cake', 'breakfast'];;;;;;;;;https://www.mucafe.fr/;Lille;Nord;Hauts-de-France;50.6352201926994;3.06690589181699
+Chez Raoul;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6426075830614;3.06671528733884
+L'Espadopn;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6199949684989;3.05122444062675
+;fast_food;['sandwich'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6446540944277;3.01286580269381
+La Baguette du Bois;fast_food;['sandwich'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6344963189443;3.03007148581416
+Bolkiri Lille;fast_food;['vietnamese'];Bolkiri;;;;;;;;https://ordering.bolkiri.fr/restaurants/bolkiri-lille;Lille;Nord;Hauts-de-France;50.6289741660926;3.05366449645959
+Lune d'Ishtar;fast_food;;;yes;;;;;;+33 3 62 64 60 29;;Lille;Nord;Hauts-de-France;50.6322391688358;3.00707494495509
+Pizza mamina;fast_food;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6129520743573;3.0475017859703
+Made in France;fast_food;['sandwich', 'salad'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6350409876096;3.06289808481458
+Le Braisé;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6210976916804;3.07271547272558
+Sweet Lady;cafe;['cake'];;;;;;;;;https://sweetlady-france.com/;Lille;Nord;Hauts-de-France;50.6333423949315;3.06465065694914
+La Pazienza;fast_food;['italian_pizza'];;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6292404591564;3.06849962688639
+Sans Chichi;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6387177932557;3.06542623444977
+Joha Café;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6328749361915;3.06823182508
+L'Enjoy;restaurant;['burger'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6331428218169;3.06820022530505
+Friterie Du Colisée;fast_food;['fried_food'];;yes;;;;;;+33620595176;;Lille;Nord;Hauts-de-France;50.6290647744659;3.00720997741522
+Amor Amor;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6395694784371;3.05811117991217
+Le Popbar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6327220502776;3.05172886355973
+Petit Pois;cafe;;;yes;;;;;;+33 6 22 87 23 57;https://www.petitpois-lille.fr/;Lille;Nord;Hauts-de-France;50.6149211510509;3.05090852669616
+Le Mauvais Oeil;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6336896571799;3.06187113403777
+Asie Snack;fast_food;['asian'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.636291399925;3.06598916306692
+Pizza Hut;restaurant;['pizza'];Pizza Hut;yes;no;yes;only;;;+333 20 57 80 80;http://pizzahut.fr;Lille;Nord;Hauts-de-France;50.6314725599715;3.05407931684766
+L'Ultimo;restaurant;['italian'];;;;no;yes;;;;;Lille;Nord;Hauts-de-France;50.640004918307;3.08031492523784
+Envies de saison;fast_food;['sandwich'];;;;;yes;;30;;;Lille;Nord;Hauts-de-France;50.6327634568793;3.02095378404883
+Le Corfou;cafe;['greek'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6369655519196;3.04772390673561
+Le Charlatan;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.62457769024;3.06801632634941
+Rebond;bar;;;yes;no;;;;;+33 3 20 10 57 92;https://restaurantrebond.fr/;Lille;Nord;Hauts-de-France;50.6280066430093;3.06979865424023
+Le Club Sandwich;fast_food;['sandwich'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6078625827504;3.03889306849692
+O Paradyz;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6328904427124;3.05485439143411
+Sud Tabac;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6148677583277;3.04847249417682
+Le Lido;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6421360171888;2.99650695761491
+Station Burger;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6369829907558;3.02421912206813
+Istambul Capitol;fast_food;['kebab', 'burger'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6467511768952;2.99863252444067
+L'imparfait;cafe;['cake'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.626370998424;3.04748837492522
+Madre;restaurant;;;;;no;;;;;https://www.privateaser.com/lieu/45857-madre;Lille;Nord;Hauts-de-France;50.638715865418;3.05805636226543
+Pronto pizza;fast_food;['pizza'];Pronto Pizza;yes;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6341135300234;3.06750779628388
+KFC;fast_food;['chicken'];KFC;yes;no;;yes;;;;;Lille;Nord;Hauts-de-France;50.6348561666446;3.06412729091497
+Le Bouquet;bar;;;;;;;;;+33374455476;;Lille;Nord;Hauts-de-France;50.6207023173077;3.05649565189452
+Nefs Berliner Kebab;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.632686091913;3.05485028430155
+PNY;fast_food;['burger'];;yes;;;;;;;https://www.pnyburger.com/;Lille;Nord;Hauts-de-France;50.6415529720041;3.06543302379134
+Le Khedive;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6361029747416;3.06339035398796
+Yogurt Factory;ice_cream;['frozen_yogurt'];Yogurt Factory;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6377653575981;3.07433829299902
+Rodizio Brazil;restaurant;['brazilian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6342337265149;3.06594767264619
+La Table Afghane;restaurant;['afghan'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6200708247226;3.06913396931859
+O'Quai 9;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6458977315141;3.06012015446481
+Starbucks;cafe;['coffee_shop'];Starbucks;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6359891484965;3.07018304831976
+Phetchabun;restaurant;['thai'];;;;;;;;+33785241238;https://phetchabun-lille.eatbu.com;Lille;Nord;Hauts-de-France;50.6380853786612;3.06681838474788
+Sister's;restaurant;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6333911776079;3.05521841748893
+El Manar;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6363421942582;3.06877052999698
+Au Vieux de la Vieille;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6408938191385;3.06140694424002
+Crêperie Saint-Georges,;restaurant;['crepe'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6395355317293;3.06126973248507
+La Capsule;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6405391808153;3.06016466237065
+Banana Drama;cafe;['breakfast', 'brunch'];;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6334323327525;3.0621079228024
+Au 30 meal;restaurant;;;;;;;;;;https://au-30-meal.com/;Lille;Nord;Hauts-de-France;50.632968729688;3.0748715496789
+Le Classico Burger;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6196798927586;3.08654008090579
+ÔBI;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6464105363503;3.05636782787113
+Naan Tacos;fast_food;['tacos'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6226667839545;3.06110687210639
+Costaud;restaurant;['sandwich'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6326630416792;3.06355983607014
+Le Maurety;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6301694254851;3.00972002213956
+Le Must;fast_food;['kebab'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6333133935465;3.06444136082689
+Le Broc Vieux-Lille;restaurant;['french'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6413103997263;3.06548633269554
+Délice du Molinel;fast_food;['asian'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6343805774585;3.06816979899654
+Rocco Cantina;restaurant;['french', 'italian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6405689365715;3.06563712313363
+La Brasserie du Cerisier;restaurant;['bistronomique'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6420567243848;3.06428436778046
+Farfelu;cafe;;;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6333678759171;3.06216894305751
+La Grange;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6429202280498;2.99666017880492
+Pokawa;fast_food;['poke'];Pokawa;yes;yes;;yes;;;;;Lille;Nord;Hauts-de-France;50.6369044523231;3.06260932825026
+Le Porthos;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6410942304434;3.06256389833504
+Lezzet;fast_food;['kebab'];;;;;;;;;https://lezz-et.net/;Lille;Nord;Hauts-de-France;50.6325840841513;3.05510048411128
+Hidden Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6323870256077;3.05524658068362
+SOlange;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6234712790211;3.0376495293421
+Bring Cafe;cafe;['breakfast', 'brunch'];;;;;;;;;https://www.bringcafe.fr/;Lille;Nord;Hauts-de-France;50.6285009238394;3.05201359681055
+Café Peacock;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6362118556639;3.06308189995119
+Delirium Café;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6324364788365;3.05481591849855
+Brutus;restaurant;['crepe'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6387817471769;3.05941708042661
+Sushi Boutik;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6520382299599;2.98264689398428
+Bombora;restaurant;['poke'];;yes;;;;;;;https://bombora.fr/;Lille;Nord;Hauts-de-France;50.6330076217187;3.01915972149357
+Le Gallia;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6144083462148;3.0568912777243
+Coffee Makers;cafe;['coffee_shop'];;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6333249605728;3.06817784562358
+À Taaable !!;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6427878777987;3.0669497291706
+La Faluche;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6335255395158;3.04450953035641
+Le Fontenoy;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6293094422195;3.11263872899812
+Lokarria;bar;;GIZARTE LOKARRIA SARL;;;;;;;;;Lille;Nord;Hauts-de-France;50.6271621662645;3.05702178395671
+General Tom Kha;fast_food;['asian'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6353191829759;3.07019956066904
+Layalina;restaurant;['lebanese'];;yes;no;;;;;+33 3 20 42 85 58;https://layalina-lille.com/;Lille;Nord;Hauts-de-France;50.62374578635;3.06784583843887
+Restaurant universitaire Châtelet;restaurant;;Crous;;;;;;;;https://www.crous-lille.fr/restaurant/r-u-chatelet-lille-chr/;Lille;Nord;Hauts-de-France;50.6143702923743;3.03497855207684
+Panini & Co;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.632350648148;3.05454652413056
+La Galerie;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6409633889349;3.0616509414414
+Don Angelino;restaurant;['pizza', 'italian'];;;;;;;;+33 3 62 27 53 20;;Lille;Nord;Hauts-de-France;50.6235941577216;3.04294588631939
+Ciao Ragazzi;restaurant;['italian_pizza'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6267060230938;3.04033844388016
+Nū Lille;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6382815990145;3.07224499650047
+Le Big Ben;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6178432501352;3.02376817567742
+Choroni;restaurant;['latin_american'];;;;;;;;;https://choroni-lille.fr/;Lille;Nord;Hauts-de-France;50.6468757319764;3.05796298786407
+Come Prima;restaurant;['pizza', 'italian'];;yes;no;;yes;;;;;Lille;Nord;Hauts-de-France;50.6294813550536;3.06547065853658
+Le Saj;fast_food;['lebanese'];;yes;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6266734174905;3.04957907303381
+Pizz & Past;fast_food;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6467885601834;3.05762947193679
+La wilderie;cafe;;;;;;;;;;https://lawilderie.com/;Lille;Nord;Hauts-de-France;50.6375074464374;3.06188739492993
+Gorilla;cafe;;;;;;;;;;https://www.gorillatopping.fr/;Lille;Nord;Hauts-de-France;50.6184381976225;3.08391009114703
+Baggio Pizza;restaurant;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6179501194007;3.06697956874589
+Lacquemant De Lille;cafe;['waffle', 'crepe'];;yes;no;;only;;;;;Lille;Nord;Hauts-de-France;50.6350296720403;3.06449617847363
+Brasserie Dufour;restaurant;['french'];;;;;;;;+33 3 28 05 37 27;https://brasserie-dufour.fr/;Lille;Nord;Hauts-de-France;50.6429960842735;3.0676444213056
+YGF Malatang Lille;restaurant;['chinese'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6308386366345;3.05779459542933
+Kabul restaurant;fast_food;['afghan'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.631951921014;3.08931516140848
+Le B'Art;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6346510614739;3.05401947005899
+Five Pizza;fast_food;['pizza'];;;;;;;;;https://stores.fivepizzaoriginal.com/restaurant/five-pizza-original-lille;Lille;Nord;Hauts-de-France;50.6361050702174;3.06005075230652
+Délice d'Alger;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.63253572057;3.09155815869772
+Ma-Tine;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6378967858398;3.05825593538
+Bio'Appétit;fast_food;;;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6199839882058;3.06825177400955
+Switch;restaurant;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6326284244192;3.04270172147994
+Le Biplet;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.639241662204;3.02017887710045
+Elephant Thaï;restaurant;;;;;;;;;+33 3 20 78 69 14;;Lille;Nord;Hauts-de-France;50.6371909457736;3.06759454898173
+Le Barley's Pub;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6514816715893;2.98105659549518
+Monsieur M;cafe;['pastry'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6371097251318;3.06405847548993
+Restaurant Sébastopol;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.628851035935;3.05898868135543
+La Pépite;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6284310187669;3.05804848327645
+Yakamoz;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6370369702123;3.06855704292315
+Notting Hill coffee;cafe;;Notting Hill coffee;;;;;;;;;Lille;Nord;Hauts-de-France;50.638665741637;3.05985469959131
+Joker Bar;bar;;;;;;;;;;https://www.jokercocktails.bar;Lille;Nord;Hauts-de-France;50.6410286839606;3.06469499721692
+Royal Naan;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6380269567961;3.02295177830831
+Chicken Street;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6199950735314;3.05170445952619
+Alhambra;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6218909439454;3.05318166947014
+Allo Couscous;restaurant;['couscous'];;;;yes;only;;;+33 3 20 40 27 37;https://www.allocouscous.fr/;Lille;Nord;Hauts-de-France;50.6253184868591;3.04183901917473
+Taberna Latina;restaurant;['caribbean'];;yes;no;;;;;;https://www.tabernalatina-lille.fr/;Lille;Nord;Hauts-de-France;50.6308561159159;3.05998964684894
+L'Abbaye;cafe;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.636152899707;3.06349058191183
+Le Lys;cafe;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6363161234235;3.06331201691428
+Café Citoyen;bar;;;yes;yes;;;;;+33 3 20 13 15 73;https://cafecitoyen.org/;Lille;Nord;Hauts-de-France;50.632775052927;3.06343509431218
+Italian Trattoria;restaurant;['italian'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6513327150597;2.98370044676093
+O'Tacos;fast_food;['mexican'];O'Tacos;yes;no;;yes;;;;;Lille;Nord;Hauts-de-France;50.6325886941981;3.09208546422636
+La Crêperie de Lille;restaurant;['crepe'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6428341459042;3.06700898922602
+Le montebello;cafe;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6216714329526;3.04555877699565
+Fast'Hoch;fast_food;['sandwich'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.629149431688;3.07479493908392
+L'authentique - frites à l'Ancienne;fast_food;['friture'];;yes;;;only;;;;;Lille;Nord;Hauts-de-France;50.6416707377437;3.0175552575881
+Chiquita Bacana Brasil;restaurant;['brazilian'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6434065460719;3.0677394720876
+Carmi;cafe;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6423887315695;3.06644212111439
+Crêperie Beaurepaire;restaurant;['crepe'];;;;;;;;+33 320546054;https://www.creperiebeaurepaire.com/;Lille;Nord;Hauts-de-France;50.6374460909062;3.06199501856668
+Eat Sushi;fast_food;['sushi'];;;;;;;;+33320860820;https://www.eatsushi.fr/nos-restaurants/Lille;Lille;Nord;Hauts-de-France;50.6364350657454;3.06149679824202
+EatSalad;fast_food;['salad'];;;;;;;;;https://eatsalad.com/notre-restaurant/eat-salad-lille/;Lille;Nord;Hauts-de-France;50.6359924174388;3.06047789409226
+La Coloc;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6359494182755;3.05947038933081
+Pizza Factory;restaurant;['pizza'];Pizza Factory;;;;;;;;;Lille;Nord;Hauts-de-France;50.6321518294047;3.0466246198032
+Taco Memo;fast_food;['mexican'];;yes;yes;yes;yes;;;;;Lille;Nord;Hauts-de-France;50.6289208571884;3.05355402297579
+Toyotomi;restaurant;['japanese'];;yes;yes;;yes;;;+33 3 20 57 72 40;http://www.toyotomi-lille.fr;Lille;Nord;Hauts-de-France;50.6297942514991;3.05779635562899
+Estaminet Gantois;restaurant;['regional'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6310766826846;3.06829318061125
+Dunky Star Pizza;fast_food;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6240865945331;3.06860297575253
+Gueuleton Lille;restaurant;['steak_house'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6293099451337;3.04271169594472
+Celebrazioni;restaurant;['pizza'];;;;;;;;+33 981 770 894;http://www.celebrazioni.fr/;Lille;Nord;Hauts-de-France;50.6418949536536;2.995268531421
+L'argana;restaurant;['grill'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6292327478055;3.1028173177736
+Le P'tit Champi;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6352818835068;3.00890488205593
+Estaminet Rijsel;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6420737396483;3.06587625883117
+La Broche;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6417879167501;3.06564424775132
+Bernadette;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6386706869598;3.06070898316275
+L’Avant Scène;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6282994228871;3.06074351660382
+Le Saint-Maurice;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6419293003916;3.08577127532549
+Café OKLM;cafe;['burger', 'sandwich', 'juice', 'coffee_shop'];;;;;;;;+33 7 73 70 81 94;https://www.oklm-snack.fr/;Lille;Nord;Hauts-de-France;50.629364146058;3.10054568564128
+Le Saray;restaurant;['lebanese'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6361313819529;3.05841389456708
+La Dilettante;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6433893058542;3.05985016569789
+L'Adress;restaurant;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6269112671436;3.05728475202705
+Pancook Zénith;restaurant;;;no;;;;;;+33 3 74 95 46 46;https://pancook.fr;Lille;Nord;Hauts-de-France;50.630924634961;3.07663879014402
+Le Welcome;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6390479564217;3.01275586364997
+Mon père;restaurant;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6334939397409;3.06451964780251
+Bibi's Café;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6370183623872;3.06400173000543
+P'tite Poutine;fast_food;['american'];;;;yes;yes;;;;;Lille;Nord;Hauts-de-France;50.6386570244577;3.06052667676872
+Méert;restaurant;['fine_dining'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6376892499173;3.06180952704943
+Bao Canteen Lille;restaurant;['taiwanese'];;yes;;;;;;;https://www.baocanteen.com;Lille;Nord;Hauts-de-France;50.6369433443538;3.06559856637901
+Penny Lane;bar;['italian'];Vapiano;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6346824936109;3.0655041861493
+Salon Grand Voyageur TGV INOU;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6399904411257;3.0749520662697
+Le Barbier qui fume;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6402151364386;3.07696895331003
+Kebab House;fast_food;['kebab', 'sandwich'];;no;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6240065473578;3.06830038904798
+Brasserie de Foy;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6362581237694;3.06318357243666
+Le Tom Tip;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6375826321089;3.0663607328346
+Les Oiseaux;restaurant;;;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6305755286939;3.06017916306317
+Le Pubstore;restaurant;['french'];;;;;;;;+33 3 20 55 10 31;https://www.lepubstore.fr/;Lille;Nord;Hauts-de-France;50.644386725829;3.05947902269108
+Tu Brilles;cafe;['breakfast', 'brunch'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6284488722207;3.05190086021287
+Arcania;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6377565565997;3.0234073347458
+Pitta Lomme;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6406721177996;3.01853099493653
+Le Bayard;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6330310910476;3.05348847649296
+Miam's;fast_food;['sandwich', 'burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6262686553862;3.05226019240192
+Bibo Vino;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6411012712421;3.06159084319563
+Le Brice;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6272786747186;3.04969239636472
+Tasty;restaurant;['indian'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6320329740177;3.0430368299688
+Fost;restaurant;['caribbean'];;;;yes;;;;;;Lille;Nord;Hauts-de-France;50.6324029512238;3.05344279512067
+L'Etoile de Rabat;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6344210620508;3.03021184756108
+57;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6386659930941;3.06064486160346
+Post Arrière;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6387004427161;3.06105222209771
+Le Béni Saf;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6255561936165;3.05039915844029
+Le Yéti;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6308851561971;3.05486243806115
+Habesa Snack-Bar;restaurant;['african'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6202562324208;3.07305619708958
+Le Palestro;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6380474924589;3.06981114327596
+Chez Tizote;restaurant;['french', 'regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6376309956902;3.02371469913516
+Les Fishtons;fast_food;['fish_and_chips'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6378441474879;3.05841242551225
+Aux Indes;restaurant;['indian'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6376046765142;3.05855676188489
+GRPS;bar;;;;;;;;;;https://grps-bar.fr/;Lille;Nord;Hauts-de-France;50.6415822248462;3.06235502130798
+Café Crème;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6229412912834;3.05983558885208
+Chess'nBar;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6348977408843;3.06333436287477
+Daikanyama;restaurant;['japanese'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6424417890166;3.0665155465862
+Café de la Presse;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6342569443867;3.09665016487563
+L'adresse;restaurant;['burger'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6378545410478;3.05826138361706
+L'Opera Corner;restaurant;['french'];;;;;;;;+33 3 20 55 98 23;;Lille;Nord;Hauts-de-France;50.6375663712167;3.06752942159406
+Le Flint;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.624197235655;3.06839493691578
+Le Bon Snack;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6282903704317;3.06181665166713
+441 Food Lille;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6252052433306;3.04516147478523
+My Resto Pizza;restaurant;['pizza'];;yes;yes;;;;;+333 62 64 53 79;;Lille;Nord;Hauts-de-France;50.6257335546876;3.05617479264103
+Jumbo;restaurant;['sandwich', 'mediterranean'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6229566301662;3.06432275689699
+Le Rimbaud;cafe;['french'];;;;;;;;+33 3 20 93 74 76;;Lille;Nord;Hauts-de-France;50.6264549850938;3.04083859204252
+Touloulou;restaurant;['creole'];;;;;;;;+33 3 20 74 19 05;https://www.touloulou-lille.com/;Lille;Nord;Hauts-de-France;50.6433806459911;3.05915103881989
+Helter Skelter;bar;;;;;;;;;;https://www.helter-skelter.fr/;Lille;Nord;Hauts-de-France;50.6449907257717;3.05727122939516
+Le Barbier qui fume Rihour;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6361473988285;3.06295935652679
+Mac Ewan's;pub;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.62846969303;3.05859444851037
+Le valmy;bar;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6283309960191;3.06173112795883
+Snack House;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6374223212991;3.08690614330284
+Le Croisé;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6455789795658;2.98794764815153
+Plan Nord;restaurant;['regional'];;no;;;no;;;;;Lille;Nord;Hauts-de-France;50.6385885443087;3.06271737098217
+Le Chopp'ing;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6378611627513;3.06608874007659
+Bodrum;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6182717944977;3.0714488733061
+Friterie du Splendid;fast_food;['friture'];;no;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6230506103551;3.09123643769686
+Paparazzi;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6243595392543;3.06104797084155
+Tacos 101;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6232568841549;3.05194232795273
+Donuts & Donuts;fast_food;['donut'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6276910643548;3.05020662612441
+La Petite Loge;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6295411180232;3.05827504611923
+All Pommodoro;restaurant;['pizza'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6329562406523;3.05330818175571
+La Clairière;restaurant;;;yes;yes;;yes;;;+33 3 20112316;https://www.laclairiere-restaurant.com/;Lille;Nord;Hauts-de-France;50.6344545896635;3.0573016557037
+Pica Tapas;restaurant;['spanish'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6307891834058;3.055921156251
+L'Estaminet;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6312702208289;3.04056752129389
+Tokyo Express;fast_food;['asian'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6319867897312;3.0433759617712
+ZN Pizza;fast_food;['pizza'];;yes;yes;;yes;;;;;Lille;Nord;Hauts-de-France;50.6203608385725;3.04790403350361
+Farafina;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6292484219644;3.0588420818689
+Saray Express;fast_food;['lebanese'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.636962287455;3.06208143598838
+Silom Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6337697881743;3.05456664069817
+Apéros Debout;fast_food;;;;;;;;;;https://aperosdebout.com/restaurant/;Lille;Nord;Hauts-de-France;50.6292180794749;3.05889824062018
+Nomàs;fast_food;['mexican'];;;;;;;;;https://www.nomas-tacos.com/;Lille;Nord;Hauts-de-France;50.6362365822782;3.06035887106719
+Cartel Lille;bar;;;;;;;;;;https://www.privateaser.com/lieu/45965-cartel;Lille;Nord;Hauts-de-France;50.6413912850919;3.06556042871958
+Le Palais de la Bière;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6369656402163;3.06945935479976
+Le Marigny;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6328385587317;3.09136185452539
+La Boulangerie Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6277098398179;3.05747868149871
+Fast'Hoch;restaurant;;;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6291591546956;3.07489636011232
+Disco Volante;restaurant;['french'];;;;;;;;+33986250001;https://www.discovolante.fr/;Lille;Nord;Hauts-de-France;50.6378902479553;3.05875164113368
+Brasserie de la Paix;restaurant;['french', 'fish', 'seafood'];;;;;;;;+33 3 20 54 70 41;https://www.brasserie-delapaix.fr/;Lille;Nord;Hauts-de-France;50.6357544552077;3.06341482914522
+Sandwicherie du Pont Neuf;fast_food;;;;;;;;;;https://www.sandwicheriedupontneuf.com/;Lille;Nord;Hauts-de-France;50.6441513619879;3.06247588835174
+Paul;fast_food;;Paul;;;;only;;;+33 3 66 19 37 83;https://www.paul.fr/stores/lille_europe;Lille;Nord;Hauts-de-France;50.6390377304998;3.07584393426606
+The Queen Victoria;pub;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6293749887023;3.05862264364384
+Starbucks;cafe;['coffee_shop'];Starbucks;yes;no;;yes;;;;;Lille;Nord;Hauts-de-France;50.6376360248321;3.07303574524585
+La Belleza Big Mamma;restaurant;['pizza', 'italian', 'italian_pizza'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6389983355549;3.05878106161381
+Ohamo;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6318637433926;3.06281929492474
+Seasons Cafe;restaurant;['soup'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6360974426855;3.05932286783494
+Le Palais;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6228251181055;3.0590211193207
+PAIN DU PÈRE;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6362810901841;3.06634824379887
+Frit'Rit;restaurant;['friture'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6514648239639;2.98089675260164
+Thai Street Food by Tony;fast_food;['thai'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6237947366646;3.07909225702193
+Chick N Beef;fast_food;['burger'];;;;;;;;;https://chicknbeef.fr/;Lille;Nord;Hauts-de-France;50.6363471395811;3.06815571739921
+Ali Baba;fast_food;['kebab'];;;;;yes;;20;;;Lille;Nord;Hauts-de-France;50.6323705970775;3.05480485438636
+Le Latina Cafe;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6325502212626;3.0548289942675
+B-Routh;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6323406736832;3.0427021405751
+Au Lion Belge;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6354037563789;3.070553360802
+Efes Kebab;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6263044461128;3.04883341892747
+L'Antasis;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6210916567101;3.03441302506971
+La Bulle Café;bar;;;;;;;;;;https://maisonsfolie.lille.fr/la-bulle-cafe;Lille;Nord;Hauts-de-France;50.6229520201195;3.06804247788733
+Nubes Cream;cafe;['pancake'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.622974399801;3.06744794949523
+Bi Bim Bap;restaurant;['thai'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6371098927699;3.0683833698894
+L'ariel;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6199624467146;3.06491049594752
+Notting Hill Coffee;cafe;;Notting Hill coffee;;;;;;;;;Lille;Nord;Hauts-de-France;50.6370304323278;3.06459516875012
+Snack de Waz;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6267881657449;3.04991099639946
+LUKS Kebab;fast_food;['kebab'];;yes;;;yes;;;;https://luks-kebab.fr/;Lille;Nord;Hauts-de-France;50.6330548956526;3.05354203685422
+Le Dahu;restaurant;['french', 'regional'];;;;;;;;+33 3 20 63 93 39;;Lille;Nord;Hauts-de-France;50.6323510672431;3.05338772601681
+La Cloche;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.637358416199;3.06424664921616
+La Palmeraie;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6228353440273;3.05421317584134
+Laiali Alsham;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6227203443158;3.05395224719555
+Le Petit Prince;restaurant;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6399506873934;3.0580906442494
+Paloma;restaurant;['breakfast', 'burger'];;;;;;;;+33320120014;;Lille;Nord;Hauts-de-France;50.6360646694442;3.06333654216959
+Thai Wok;restaurant;['thai'];;no;;;;;;+33 9 70 99 41 60;https://www.thaiwok59.fr/;Lille;Nord;Hauts-de-France;50.6321940741967;3.0931930489117
+Urban Burger;restaurant;['burger'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6315414592156;3.09426752507952
+Le Pol'Art;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6235139429083;3.05439799680633
+Nyctalope;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6250765811169;3.04516449227037
+Tout Chaud;fast_food;['burger'];;;;;;;;+33 3 20 40 23 20;;Lille;Nord;Hauts-de-France;50.6365749597093;3.06420029729162
+L'Atmo Pizza;restaurant;['pizza'];;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6239054616055;3.05470125406313
+Fabrik Burger;restaurant;['burger'];;;;;;;;;https://fabrikburger.vercel.app/;Lille;Nord;Hauts-de-France;50.6249192527943;3.05518153711498
+Bellini;fast_food;['italian', 'pizza'];;;;;;;;;http://restobellini.fr/;Lille;Nord;Hauts-de-France;50.6370658877782;3.06746219873062
+Notting Hill coffee;cafe;;Notting Hill coffee;;;;;;;;;Lille;Nord;Hauts-de-France;50.6356955304284;3.05975135072518
+Lanka Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6324873569887;3.05430789134721
+Subway;fast_food;['sandwich'];Subway;;;;yes;;;+33 3 20 22 87 41;https://restaurants.subway.com/france/lomme/centre-commercial-kinepolis;Lille;Nord;Hauts-de-France;50.6510082681395;2.983015444415
+Restaurant universitaire Vauban - All Resto;restaurant;['cantine_scolaire'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.63307584966;3.04796911933612
+Café du Bois;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6372841689971;3.05689178847865
+Le signal d'arrêt 2;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6449392608862;2.98833518875395
+Planet Sushi;fast_food;['asian'];;;;;yes;;;+33 3 28 38 06 06;;Lille;Nord;Hauts-de-France;50.6410042926224;3.06519296608445
+La Connivence;restaurant;['regional'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6419444907014;3.06597952387827
+Little Havana;bar;;;;;;;;;+33 3 20 60 34 61;https://www.mesenseignes.fr/little-havana/;Lille;Nord;Hauts-de-France;50.6374465938204;3.05822022847246
+O'Massena Food;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6308351162352;3.05485983967117
+Saveurs des Iles;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6282140951128;3.05136131710557
+Domino's;fast_food;['pizza'];Domino's;yes;no;;yes;;;+33 3 20 58 16 04;;Lille;Nord;Hauts-de-France;50.623267682593;3.08079596266097
+Le Dabe;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6323182940017;3.0546150880985
+Pinup;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6326632931364;3.05398669681759
+Beer Square;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6401102788299;3.06160182348879
+Kok Piraat Péniche-Restaurant;restaurant;['regional'];;;;;;;;;http://www.kokpiraat.fr/;Lille;Nord;Hauts-de-France;50.6303363929963;3.02056084042806
+Espit Chupitos;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6327083877754;3.05356089613639
+L'ambassadeur;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6198049631679;3.05100833549467
+Le Cassini;restaurant;['french'];;;;;;;;+33 3 20 04 62 51;;Lille;Nord;Hauts-de-France;50.6245942870201;3.09373283571003
+;restaurant;['pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6283693105065;3.06115540338567
+Le Club;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6360919944528;3.07077137410326
+L'Indigo;restaurant;['african'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6255774836505;3.05606566026171
+B148;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6327062922996;3.06364306836863
+Le Track;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6324184577446;3.06280437513709
+Oh Gourmand'in !;cafe;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.638401879325;3.06515642098663
+Mimoun;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6257937367524;3.05135528213529
+Cosy Lunch;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6339246857449;3.05091003543873
+La part du lion;restaurant;;;;;;;;;;https://www.bistrot-lapartdulion.fr/;Lille;Nord;Hauts-de-France;50.6370932966016;3.05171914055205
+Omega x Hyde;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6327198709828;3.05517013772666
+Pouletos braisé;fast_food;['oriental'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6325730200391;3.09151423752508
+Het Hol;restaurant;;;;;;;;;+33 320 293 011;;Lille;Nord;Hauts-de-France;50.6416735875908;3.01439779466264
+O'Passage;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6366419311157;3.06064268230864
+L'endroit;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6351061988163;3.05722705676544
+Bloom Café;cafe;['cake'];;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6373736712628;3.05798478081232
+D'wich Home;fast_food;['sandwich'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6313429757484;3.0440552312044
+Le Dojo;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6284639596464;3.06146167806773
+Astral Glace;ice_cream;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6392841584531;3.06212803937004
+Popeyes;fast_food;['chicken'];Restaurant Brands International;yes;;;yes;;;;https://popeyesfrance.fr/restaurants/euralille;Lille;Nord;Hauts-de-France;50.6382944233264;3.07404878206339
+Quick;fast_food;['burger'];Quick;;;;yes;;;+33 3 74 91 00 56;https://www.quick.fr/restaurants/euralille;Lille;Nord;Hauts-de-France;50.6379448979641;3.07555417187336
+Wally’s Coffee;cafe;;;yes;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6327342878562;3.06439391925491
+La Terrasse;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6337435104289;3.06684387228874
+Truva Kebab;fast_food;['kebab'];;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.64307478503;3.05952346611508
+Hippopotamus;restaurant;['steak_house'];Hippopotamus;;;;;;;;;Lille;Nord;Hauts-de-France;50.651272933136;2.98307290799637
+Sogood Euratechnologies;fast_food;['burger'];;yes;;;;;;;https://www.sogood.fr/;Lille;Nord;Hauts-de-France;50.6342061500535;3.02135016424992
+Bloempot;restaurant;['regional'];;;;;;;;;https://www.bloempot.fr/;Lille;Nord;Hauts-de-France;50.6381491649444;3.05831351905479
+Gold chicken;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6328149217648;3.09082876548356
+Diwan;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6207658956853;3.05144258844912
+La dioza;restaurant;['pizza'];;;;;;;;+33 9 78 80 13 18;https://www.pizzeria-la-dioza.fr;Lille;Nord;Hauts-de-France;50.6371540514768;3.08488979540384
+Le Melting Pot;restaurant;['international'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6375675446832;3.06625897653007
+Mezzo Di Pasta;fast_food;['pasta'];Mezzo di Pasta;yes;no;yes;;;;;https://lille1.mezzodipasta.fr/categories/menus;Lille;Nord;Hauts-de-France;50.6339499990925;3.06395529426186
+Stairway;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.644885951982;3.06055836036273
+Yena Né;restaurant;['korean'];;;;;;;;+33 3 62 27 59 40;;Lille;Nord;Hauts-de-France;50.6293447300319;3.05694223969562
+Texas Pizza;fast_food;['pizza'];;yes;;;only;;;+33 3 20 92 99 96;;Lille;Nord;Hauts-de-France;50.6415680594298;3.01770135416041
+Chaud Time;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6189192350456;3.05012305854976
+Taster;fast_food;;;;;;only;;;;;Lille;Nord;Hauts-de-France;50.6333588234617;3.06440489954809
+Pizzeria Juliet et Roméo;restaurant;['italian', 'italian_pizza', 'pizza'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6253588836158;3.04486592887935
+Le chat qui fume;restaurant;['regional'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.629421675903;3.05528094648662
+Indian Bakers;fast_food;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.618796188707;3.07059107936627
+Le Vauban;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6333098731472;3.04169974877456
+Chez Malay;restaurant;['thai'];;;;no;yes;;;+33 9 54 62 19 70;;Lille;Nord;Hauts-de-France;50.6399276371597;3.0798446166508
+Le Chti Long;restaurant;['asian'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.631621757848;3.06403391651361
+Box2Box;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6404399390817;3.06579948059809
+Le 1920 Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6450404304575;3.05715413420782
+Yiso Ramen;restaurant;['japanese', 'ramen'];;;;;;;;+33 3 20 12 09 47;;Lille;Nord;Hauts-de-France;50.6297514199739;3.05786743416789
+Le Waf;cafe;;;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6384771488155;3.05564832530271
+L'amitié;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6496331266634;3.09047714464543
+Dog Sandwich;fast_food;['sandwich'];;yes;;;;;;;https://dog-sandwich-lille.eatbu.com/?lang=fr;Lille;Nord;Hauts-de-France;50.6335845481141;3.04813319473638
+Tacos Maison;restaurant;['tacos'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6293144713614;3.10241507024031
+Chick’n Beef;fast_food;['burger'];;no;;;;;;;;Lille;Nord;Hauts-de-France;50.6326395723504;3.0621213338475
+Lou;fast_food;['pizza', 'salad'];;;yes;;;;;;;Lille;Nord;Hauts-de-France;50.6293084363912;3.05398954666467
+Chat Joue;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.63620959255;3.02623924455199
+Wingstop;fast_food;['wings'];Wingstop;;;;yes;;;;;Lille;Nord;Hauts-de-France;50.6379312354619;3.07500733651031
+Garden Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6332813746763;3.05522034532666
+L'Oxford;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6266919414965;3.05031424976116
+Le Lobby;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6392360463289;3.0586025270762
+Resto Alpha;fast_food;['pizza', 'sandwich'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6333774312867;3.04191533132419
+elephanthai;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6371798816614;3.06757803663248
+Le Penny Lane;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6347160212235;3.06643725961055
+The Truth;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6293178241227;3.06653247803061
+Supercute;pub;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6297232567792;3.06499356060795
+Chez Brigitte;restaurant;['french'];;yes;no;;;;;;;Lille;Nord;Hauts-de-France;50.6383653342272;3.05846296838837
+Call of Beer;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6368678234062;3.05993902153725
+Mardasteph Food;restaurant;['african'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6257562696453;3.05169248609997
+Babe;restaurant;['french'];;no;;;;;;+333 74 46 06 84;https://www.goodlife.fun/restaurants/babe/;Lille;Nord;Hauts-de-France;50.6343840978579;3.06115347548806
+54 THAI;restaurant;['thai'];;yes;;;;;;;;Lille;Nord;Hauts-de-France;50.6444272942404;3.05799944914287
+Dwich Yourself;fast_food;;;;;;;;;;https://www.dwichyourself-lille.fr;Lille;Nord;Hauts-de-France;50.6406853612066;3.06742313906184
+Unik;fast_food;['kebab'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6196889452141;3.06719531893358
+L'Illustration;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6394707396177;3.05843757122176
+Nagoya Roll;restaurant;['japanese'];;yes;;;yes;;;+33 3 59 50 49 43;https://nagoyaroll.com/;Lille;Nord;Hauts-de-France;50.634257782577;3.03034855640183
+Dowl;fast_food;['hot_dog'];;;;;;;;;https://dowl.fr/;Lille;Nord;Hauts-de-France;50.6309855713971;3.02113852119479
+Ô Welsh;restaurant;['regional'];;;;;;;;+33 3 74 44 70 34;https://owelsh.fr/;Lille;Nord;Hauts-de-France;50.6137993171301;3.0623144528966
+Juno;restaurant;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6454772952509;3.05624117731418
+Bistrot Régent;restaurant;['french'];;yes;;;;;;+33 3 20 22 25 61;https://www.bistro-regent.fr/lille/;Lille;Nord;Hauts-de-France;50.638153523534;3.07203628711144
+Berliner das Original;fast_food;['kebab'];;;;;;;;+33 3 20 38 67 79;https://berliner-do.com/;Lille;Nord;Hauts-de-France;50.6372142474644;3.0637705571159
+Mad Luv;cafe;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6328561607284;3.06329262099695
+French Papa Burger;fast_food;['burger'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6227022394049;3.09151323169669
+O'Poulet Grillé;fast_food;['chicken'];;;;;;;;;https://opoulet-grille.fr;Lille;Nord;Hauts-de-France;50.6225540473568;3.09146201826832
+La Pharmacie Bar;bar;;;;;;;;;;;Lille;Nord;Hauts-de-France;50.6399912558048;3.05780565954151
+Au 1er Mai;restaurant;['french'];;;;;;;;;;Lille;Nord;Hauts-de-France;50.6298432856326;3.02115511736307

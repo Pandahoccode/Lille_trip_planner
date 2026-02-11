@@ -1,0 +1,12 @@
+streamlit
+watchdog
+pandas
+requests
+folium
+streamlit-folium
+jupyter
+python-dotenv
+openmeteo-requests
+requests-cache
+retry-requests
+wikipedia
