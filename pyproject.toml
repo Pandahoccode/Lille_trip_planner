@@ -1,7 +1,10 @@
+# pyproject.toml
 [project]
-name = "trip-lille-planner"
+name = "lille-trip-planner"          # ← Must match your desired app name / repo slug
 version = "0.1.0"
 description = "Lille Trip Planner"
+requires-python = ">=3.9"
+
 dependencies = [
     "streamlit>=1.39.0",
     "folium>=0.17.0",
@@ -17,4 +20,4 @@ dependencies = [
 ]
 
 [tool.uv]
-package = false
+package = false        # Important: This is NOT a Python package, just a Streamlit app
