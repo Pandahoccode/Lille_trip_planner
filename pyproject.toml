@@ -28,6 +28,8 @@ dependencies = [
     "pygwalker>=0.4.9",
 ]
 
-[tool.setuptools.packages.find]
-where = ["src"]
-include = ["*"]
+#[tool.setuptools.packages.find]
+#where = ["src"]
+#include = ["*"]
+[tool.uv]
+package = false
