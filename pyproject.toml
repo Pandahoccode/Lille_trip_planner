@@ -24,3 +24,5 @@ dependencies = [
     "pygwalker>=0.4.9",
 ]
 
+[tool.uv]
+package = false
