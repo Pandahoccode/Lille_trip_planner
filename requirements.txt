@@ -1,9 +1,9 @@
 streamlit
+folium
+streamlit-folium
 watchdog
 pandas
 requests
-folium
-streamlit-folium
 jupyter
 python-dotenv
 openmeteo-requests
