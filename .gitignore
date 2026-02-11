@@ -7,4 +7,32 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
+.env
+.venv/
+
+# Cache files
+.cache/
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+package-lock.json
+
+# Data and Artifacts (ignore generated html maps if desired)
+# data/*.csv
+.agent/
+cartes/*.html
+apps/streamlit-app-demo.gif
